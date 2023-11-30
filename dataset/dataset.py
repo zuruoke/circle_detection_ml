@@ -78,3 +78,6 @@ def generate_examples(
             img_size=img_size, min_radius=min_radius, max_radius=max_radius, noise_level=noise_level
         )
         yield img, params
+        
+def circle_params_to_array(params):
+    return np.array([params.row, params.col, params.radius])

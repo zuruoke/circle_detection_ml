@@ -23,5 +23,5 @@ def iou(a: CircleParams, b: CircleParams) -> float:
     triangle_area2 = d2 * np.sqrt(r2_sq - d2**2)
     intersection = sector_area1 + sector_area2 - \
         (triangle_area1 + triangle_area2)
-    union = np.pi * (r1_sq + r2_sq) - intersection
+    union = np.pi * (r1_sq + r2_sq) - intersection    
     return intersection / union
