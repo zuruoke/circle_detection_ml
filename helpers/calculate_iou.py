@@ -1,5 +1,5 @@
 import numpy as np
-from dataset.dataset import CircleParams
+from dataset.dataset_utils import CircleParams
 
 
 def iou(a: CircleParams, b: CircleParams) -> float:

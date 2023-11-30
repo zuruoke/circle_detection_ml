@@ -58,7 +58,7 @@ def show_circle(img: np.ndarray):
 
 def generate_examples(
         noise_level: float = 0.5,
-        img_size: int = 100,
+        img_size: int = 64,
         min_radius: Optional[int] = None,
         max_radius: Optional[int] = None,
         dataset_path: str = 'ds',
