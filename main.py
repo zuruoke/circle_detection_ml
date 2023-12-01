@@ -13,7 +13,7 @@ def main() -> any:
     args = args_parser()
     noise_level = args.noise_level
     img_shape = args.img_shape
-    model_weights_loc = args.model_weights
+    model_weights_loc = args.model_weight
     loss_fn_ref = MODEL_LOSS[args.loss]
     loss_fn = loss_fn_ref()
     model_ref = MODEL_ARCHITECTURE[args.model]
