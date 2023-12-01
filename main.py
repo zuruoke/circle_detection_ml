@@ -45,7 +45,7 @@ def main() -> any:
         optim_ref = MODEL_OPTIMIZERS[args.optimizer]
         optim = optim_ref(model.parameters())
         train_dataset_size = args.train_dataset_size
-        val_dataset_size = args.train_dataset_size * 0.1
+        val_dataset_size = 100
         
         train_dataset = CircleDataset(dataset_size=train_dataset_size)
         train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
