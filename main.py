@@ -11,8 +11,8 @@ from typing import Any
 def load_pretrained_model(model, model_weights_loc):
     model.load_state_dict(torch.load(model_weights_loc))
 
-def test_model(model, test_loader):
-    average_iou, loss = evaluate_model(model, test_loader)
+def test_model(model, test_loader, criterion):
+    average_iou, loss = evaluate_model(model, test_loader, criterion)
     print(f"Average IOU: {average_iou}")
     print(f"Average Loss: {loss}")
 
@@ -43,7 +43,7 @@ def main() -> Any:
         test_dataset = CircleDataset(dataset_size=dataset_size)
         test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 
-        test_model(model, test_loader)
+        test_model(model, test_loader, loss_fn)
         
     else:
         print("Training Mode...")
