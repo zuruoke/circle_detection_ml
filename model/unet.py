@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.init as init
 
 class UNet(nn.Module):
-    def __init__(self, in_channels=1, num_classes=3):
+    def __init__(self, in_channels: int=1, num_classes:int =3):
         super(UNet, self).__init__()
 
         # Encoder
