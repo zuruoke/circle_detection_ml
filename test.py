@@ -50,7 +50,7 @@ def predict(model: nn.Module,
             total_loss += loss.item()
     return predictions, total_loss
 
-def evaluate(model: nn.Module,
+def evaluate_model(model: nn.Module,
              test_loader: DataLoader,
              criterion: Type[nn.Module]) -> Tuple[float, float]:
     predictions, loss = predict(model, test_loader, criterion)
