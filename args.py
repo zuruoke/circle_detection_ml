@@ -15,6 +15,7 @@ def args_parser():
     parser.add_argument("--optimizer", type=str, default='adam', choices=["adam", "sgd", "rmsprop"], help="Optimizer")
     parser.add_argument("--model", type=str, default='resnet', choices=["resnet", "unet"], help="Model architecture")
     parser.add_argument("--dropout", type=float, default=0.5, help="Dropout rate")
+    parser.add_argument("--model_weight", type=str, default='/data/model_weights.pth', help="Model weight location")
 
     args = parser.parse_args()
     return args

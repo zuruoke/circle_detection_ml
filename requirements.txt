@@ -1,0 +1,5 @@
+tqdm
+numpy
+pytorch
+matplotlib
+skimage

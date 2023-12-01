@@ -1,30 +1,64 @@
-from dataset.dataset_utils import CircleParams
 import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader
+from typing import Tuple, List, Type
 import numpy as np
-# test_dataset = CircleDataset(dataset_size=100)  # Adjust dataset_size as needed
-# test_loader = DataLoader(test_dataset, batch_size=1, shuffle=False)
+from dataset.dataset_utils import CircleParams
+from helpers.calculate_iou import iou
 
-def predict(model, test_loader):
+
+# def predict(model, test_loader, criterion):
+#     model.eval()  # Set the model to evaluation mode
+#     predictions = []
+#     total_loss = 0.0
+#     with torch.no_grad():  # No need to track gradients
+#         for images, labels in test_loader:
+#             outputs = model(images)
+#             loss = criterion(outputs, labels)
+#             predicted_params = outputs.numpy()
+#             predictions.extend(predicted_params)
+#             total_loss += loss.item()
+#     return predictions, total_loss
+
+
+
+# def evaluate(model, test_loader, criterion):
+#     predictions, loss = predict(model, test_loader, criterion)
+#     ious = []
+#     for i, (_, true_params) in enumerate(test_loader):
+#         predicted_params = CircleParams(*predictions[i])
+#         # Ensure true_params are correctly unpacked
+#         true_params = CircleParams(*true_params.numpy().squeeze())
+#         iou_score = iou(predicted_params, true_params)
+#         ious.append(iou_score)
+#     return np.mean(ious), loss/len(test_loader)
+
+
+
+def predict(model: nn.Module,
+            test_loader: DataLoader,
+            criterion: Type[nn.Module]) -> Tuple[List[np.ndarray], float]:
     model.eval()  # Set the model to evaluation mode
     predictions = []
+    total_loss = 0.0
     with torch.no_grad():  # No need to track gradients
-        for images, _ in test_loader:
+        for images, labels in test_loader:
             outputs = model(images)
+            loss = criterion(outputs, labels)
             predicted_params = outputs.numpy()
             predictions.extend(predicted_params)
-    return predictions
+            total_loss += loss.item()
+    return predictions, total_loss
 
-def test(model, test_loader, iou_func):
-    predictions = predict(model, test_loader)
+def evaluate(model: nn.Module,
+             test_loader: DataLoader,
+             criterion: Type[nn.Module]) -> Tuple[float, float]:
+    predictions, loss = predict(model, test_loader, criterion)
     ious = []
     for i, (_, true_params) in enumerate(test_loader):
         predicted_params = CircleParams(*predictions[i])
+        # Ensure true_params are correctly unpacked
         true_params = CircleParams(*true_params.numpy().squeeze())
-        iou_score = iou_func(predicted_params, true_params)
+        iou_score = iou(predicted_params, true_params)
         ious.append(iou_score)
-    return np.mean(ious)
-
-
-# # Example usage
-# average_iou = evaluate(model, test_loader, iou)
-# print(f"Average IOU: {average_iou}")
+    return np.mean(ious), loss/len(test_loader)
