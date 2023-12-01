@@ -3,7 +3,7 @@ import torch.nn as nn
 from torch.utils.data import DataLoader
 from typing import Type
 from tqdm import tqdm
-from test import evaluate
+from test import evaluate_model
 from dataset.dataset_loader import CircleDataset
 
 
@@ -57,6 +57,6 @@ def train_model(model: nn.Module,
 
         # Validation phase
         model.eval()
-        ious, val_loss = evaluate(model, val_loader, criterion)
+        ious, val_loss = evaluate_model(model, val_loader, criterion)
         print(f"Epoch [{epoch+1}/{num_epochs}], Validation Loss: {val_loss}")
         print(f"Epoch [{epoch+1}/{num_epochs}], Average Validation IoU: {ious}")
