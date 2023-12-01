@@ -9,7 +9,7 @@ This project features two custom convolutional neural network (CNN) architecture
 - Unet
 - Resnet
 
-Additionally, testing and training scripts are provided for training with various configurations such as image size, batch size, epochs, etc. Configuration parameters can be adjusted in the `args.py` file. Efficient data loaders have been implemented to load and create the dataset.
+Additionally, testing and training scripts are provided for training with various configurations such as model type, image size, batch size, epochs, etc. Configuration parameters can be adjusted in the `args.py` file. Efficient data loaders have been implemented to load and create the dataset.
 
 The main entry point for the project is `main.py`.
 
@@ -37,6 +37,10 @@ python main.py --mode train --train_batchsize 4  --epochs 100 --train_dataset_si
 ```
 
 ## Testing
+
+You can train your own model and load the weights or get the pretrained model weights from the following link: [Pretrained Model Weights](https://drive.google.com/file/d/1Cp41ehAGLP-ZGN2pumWB6XfOiFd3LeGK/view?usp=sharing)
+
+Put the downloaded file in the root directory's `data` folder, which is created at the start of the project.
 
 To test the model, use the following command:
 
