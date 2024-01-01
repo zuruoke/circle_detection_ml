@@ -1,78 +1,173 @@
 [
    {
-      "category":"Over/Under 47.50 ",
-      "combinations":[
+      "category": "Over/Under 59.50  Total Points",
+      "combinations": [
          {
-            "bookmaker":"betfairsportsbook",
-            "odds":1.3448275,
-            "stake":74.36,
-            "market":"+47.50 "
+            "bookmaker": "betfairsportsbook",
+            "odds": 1.3225807,
+            "stake": 75.61,
+            "market": "+59.50 "
          },
          {
-            "bookmaker":"bet365",
-            "odds":4,
-            "stake":25,
-            "market":"-47.50 "
+            "bookmaker": "bet365",
+            "odds": 4.2,
+            "stake": 23.81,
+            "market": "-59.50 "
          }
       ],
-      "profit_per":0.6400000000000006,
-      "is_middle":false
+      "profit_per": 0.5799999999999983,
+      "is_middle": false
    },
    {
-      "category":"Over/Under 47.50 ",
-      "combinations":[
+      "category": "Over/Under 59.50  Total Points",
+      "combinations": [
          {
-            "bookmaker":"paddypower",
-            "odds":1.338983,
-            "stake":74.68,
-            "market":"+47.50 "
+            "bookmaker": "paddypower",
+            "odds": 1.3225807,
+            "stake": 75.61,
+            "market": "+59.50 "
          },
          {
-            "bookmaker":"bet365",
-            "odds":4,
-            "stake":25,
-            "market":"-47.50 "
+            "bookmaker": "bet365",
+            "odds": 4.2,
+            "stake": 23.81,
+            "market": "-59.50 "
          }
       ],
-      "profit_per":0.3199999999999932,
-      "is_middle":false
+      "profit_per": 0.5799999999999983,
+      "is_middle": false
    },
    {
-      "category":"Over/Under 49.50 ",
-      "combinations":[
+      "category": "Over/Under 63.50  Total Points",
+      "combinations": [
          {
-            "bookmaker":"betfairsportsbook",
-            "odds":1.4347826,
-            "stake":69.7,
-            "market":"+49.50 "
+            "bookmaker": "betfairsportsbook",
+            "odds": 1.4761904,
+            "stake": 67.74,
+            "market": "+63.50 "
          },
          {
-            "bookmaker":"bet365",
-            "odds":3.4,
-            "stake":29.41,
-            "market":"-49.50 "
+            "bookmaker": "bet365",
+            "odds": 3.2,
+            "stake": 31.25,
+            "market": "-63.50 "
          }
       ],
-      "profit_per":0.8900000000000006,
-      "is_middle":false
+      "profit_per": 1.0100000000000051,
+      "is_middle": false
    },
    {
-      "category":"Over/Under 49.50 ",
-      "combinations":[
+      "category": "Over/Under 63.50  Total Points",
+      "combinations": [
          {
-            "bookmaker":"paddypower",
-            "odds":1.4255319,
-            "stake":70.15,
-            "market":"+49.50 "
+            "bookmaker": "paddypower",
+            "odds": 1.4761904,
+            "stake": 67.74,
+            "market": "+63.50 "
          },
          {
-            "bookmaker":"bet365",
-            "odds":3.4,
-            "stake":29.41,
-            "market":"-49.50 "
+            "bookmaker": "bet365",
+            "odds": 3.2,
+            "stake": 31.25,
+            "market": "-63.50 "
          }
       ],
-      "profit_per":0.4399999999999977,
-      "is_middle":false
+      "profit_per": 1.0100000000000051,
+      "is_middle": false
+   },
+   {
+      "category": "Over/Under 74.50  Total Points",
+      "combinations": [
+         {
+            "bookmaker": "betfair",
+            "odds": 2.43,
+            "stake": 41.15,
+            "market": "+74.50 "
+         },
+         {
+            "bookmaker": "livescorebet",
+            "odds": 1.7,
+            "stake": 58.82,
+            "market": "-74.50 "
+         }
+      ],
+      "profit_per": 0.01999999999999602,
+      "is_middle": false
+   },
+   {
+      "category": "Over/Under 76.50  Total Points",
+      "combinations": [
+         {
+            "bookmaker": "betfair",
+            "odds": 2.76,
+            "stake": 36.23,
+            "market": "+76.50 "
+         },
+         {
+            "bookmaker": "livescorebet",
+            "odds": 1.57,
+            "stake": 63.69,
+            "market": "-76.50 "
+         }
+      ],
+      "profit_per": 0.06999999999999318,
+      "is_middle": false
+   },
+   {
+      "category": "Over/Under 78.50  Total Points",
+      "combinations": [
+         {
+            "bookmaker": "betfair",
+            "odds": 3.2,
+            "stake": 31.25,
+            "market": "+78.50 "
+         },
+         {
+            "bookmaker": "livescorebet",
+            "odds": 1.47,
+            "stake": 68.03,
+            "market": "-78.50 "
+         }
+      ],
+      "profit_per": 0.7199999999999989,
+      "is_middle": false
+   },
+   {
+      "category": "Over/Under 79.50  Total Points",
+      "combinations": [
+         {
+            "bookmaker": "betfair",
+            "odds": 3.35,
+            "stake": 29.85,
+            "market": "+79.50 "
+         },
+         {
+            "bookmaker": "betfairsportsbook",
+            "odds": 1.4444444,
+            "stake": 69.23,
+            "market": "-79.50 "
+         }
+      ],
+      "profit_per": 0.9200000000000017,
+      "is_middle": false
+   },
+   {
+      "category": "Over/Under 79.50  Total Points",
+      "combinations": [
+         {
+            "bookmaker": "betfair",
+            "odds": 3.35,
+            "stake": 29.85,
+            "market": "+79.50 "
+         },
+         {
+            "bookmaker": "paddypower",
+            "odds": 1.4444444,
+            "stake": 69.23,
+            "market": "-79.50 "
+         }
+      ],
+      "profit_per": 0.9200000000000017,
+      "is_middle": false
    }
 ]
