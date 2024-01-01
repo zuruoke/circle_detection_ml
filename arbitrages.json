@@ -1,22 +1,78 @@
 [
-    
-    {
-       "category":"Over/Under 49.50 ",
-       "combinations":[
-          {
-             "bookmaker":"livescorebet",
-             "odds":3.75,
-             "stake":26.67,
-             "market":"+49.50 "
-          },
-          {
-             "bookmaker":"vbet",
-             "odds":3.4,
-             "stake":29.41,
-             "market":"-49.50 "
-          }
-       ],
-       "profit_per":43.92,
-       "is_middle":false
-    }
- ]
+   {
+      "category":"Over/Under 47.50 ",
+      "combinations":[
+         {
+            "bookmaker":"betfairsportsbook",
+            "odds":1.3448275,
+            "stake":74.36,
+            "market":"+47.50 "
+         },
+         {
+            "bookmaker":"bet365",
+            "odds":4,
+            "stake":25,
+            "market":"-47.50 "
+         }
+      ],
+      "profit_per":0.6400000000000006,
+      "is_middle":false
+   },
+   {
+      "category":"Over/Under 47.50 ",
+      "combinations":[
+         {
+            "bookmaker":"paddypower",
+            "odds":1.338983,
+            "stake":74.68,
+            "market":"+47.50 "
+         },
+         {
+            "bookmaker":"bet365",
+            "odds":4,
+            "stake":25,
+            "market":"-47.50 "
+         }
+      ],
+      "profit_per":0.3199999999999932,
+      "is_middle":false
+   },
+   {
+      "category":"Over/Under 49.50 ",
+      "combinations":[
+         {
+            "bookmaker":"betfairsportsbook",
+            "odds":1.4347826,
+            "stake":69.7,
+            "market":"+49.50 "
+         },
+         {
+            "bookmaker":"bet365",
+            "odds":3.4,
+            "stake":29.41,
+            "market":"-49.50 "
+         }
+      ],
+      "profit_per":0.8900000000000006,
+      "is_middle":false
+   },
+   {
+      "category":"Over/Under 49.50 ",
+      "combinations":[
+         {
+            "bookmaker":"paddypower",
+            "odds":1.4255319,
+            "stake":70.15,
+            "market":"+49.50 "
+         },
+         {
+            "bookmaker":"bet365",
+            "odds":3.4,
+            "stake":29.41,
+            "market":"-49.50 "
+         }
+      ],
+      "profit_per":0.4399999999999977,
+      "is_middle":false
+   }
+]
