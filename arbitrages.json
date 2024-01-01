@@ -1,1 +1,22 @@
-[{"category":"Over/Under 49.50 ","combinations":[{"bookmaker":"livescorebet","odds":3.75,"stake":26.67,"market":"+49.50 "},{"bookmaker":"vbet","odds":3.4,"stake":29.41,"market":"-49.50 "}],"profit_per":43.92,"is_middle":false}]
+[
+    
+    {
+       "category":"Over/Under 49.50 ",
+       "combinations":[
+          {
+             "bookmaker":"livescorebet",
+             "odds":3.75,
+             "stake":26.67,
+             "market":"+49.50 "
+          },
+          {
+             "bookmaker":"vbet",
+             "odds":3.4,
+             "stake":29.41,
+             "market":"-49.50 "
+          }
+       ],
+       "profit_per":43.92,
+       "is_middle":false
+    }
+ ]
