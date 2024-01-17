@@ -1,0 +1,5065 @@
+[
+    {
+        "id": "3561729910",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Arantxa Rus",
+        "away_name": "Anna Kalinskaya",
+        "name": "Arantxa Rus v Anna Kalinskaya",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "arantxa rus-v-anna kalinskaya",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/arantxa-rus-v-anna-kalinskaya/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497799,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "away_over_1_5_sets_handicap": 1.2,
+                "home_over_1_5_sets_handicap": 1.67,
+                "away_under_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 4.4
+            },
+            "ladbrokes": {
+                "away_over_1_5_sets_handicap": 1.2,
+                "home_over_1_5_sets_handicap": 1.67,
+                "away_under_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 4.4
+            },
+            "betuk": {
+                "away_over_1_5_sets_handicap": 1.19,
+                "home_over_1_5_sets_handicap": 1.64,
+                "away_under_1_5_sets_handicap": 2.23,
+                "home_under_1_5_sets_handicap": 4.8
+            },
+            "betmgmuk": {
+                "away_over_1_5_sets_handicap": 1.19,
+                "home_over_1_5_sets_handicap": 1.64,
+                "away_under_1_5_sets_handicap": 2.23,
+                "home_under_1_5_sets_handicap": 4.8
+            },
+            "unibet": {
+                "away_over_1_5_sets_handicap": 1.19,
+                "home_over_1_5_sets_handicap": 1.64,
+                "away_under_1_5_sets_handicap": 2.23,
+                "home_under_1_5_sets_handicap": 4.8
+            },
+            "vbet": {
+                "away_over_1_5_sets_handicap": 1.18,
+                "home_over_1_5_sets_handicap": 1.67,
+                "away_under_1_5_sets_handicap": 2.17,
+                "home_under_1_5_sets_handicap": 4.7
+            },
+            "midnite": {
+                "away_over_1_5_sets_handicap": 1.17,
+                "home_over_1_5_sets_handicap": 1.62,
+                "away_under_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 4.3
+            },
+            "10bet": {
+                "away_over_1_5_sets_handicap": 1.166,
+                "home_over_1_5_sets_handicap": 1.7,
+                "away_under_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 5
+            },
+            "livescorebet": {
+                "away_over_1_5_sets_handicap": 1.15,
+                "home_over_1_5_sets_handicap": 1.62,
+                "away_under_1_5_sets_handicap": 1.95,
+                "home_under_1_5_sets_handicap": 4
+            },
+            "betway": {
+                "away_over_1_5_sets_handicap": 1.15,
+                "home_over_1_5_sets_handicap": 1.65,
+                "away_under_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 4.75
+            },
+            "betfairsportsbook": {
+                "away_over_1_5_sets_handicap": 1.1428572,
+                "home_over_1_5_sets_handicap": 1.5714285,
+                "away_under_1_5_sets_handicap": 2.25,
+                "home_under_1_5_sets_handicap": 5
+            },
+            "paddypower": {
+                "away_over_1_5_sets_handicap": 1.1428572,
+                "home_over_1_5_sets_handicap": 1.5714285,
+                "away_under_1_5_sets_handicap": 2.25,
+                "home_under_1_5_sets_handicap": 5
+            },
+            "betgoodwin": {
+                "home_over_1_5_sets_handicap": 1.73,
+                "away_under_1_5_sets_handicap": 2.05
+            },
+            "quinnbet": {
+                "home_over_1_5_sets_handicap": 1.73,
+                "away_under_1_5_sets_handicap": 2.05
+            },
+            "888sport": {
+                "home_over_1_5_sets_handicap": 1.7,
+                "away_under_1_5_sets_handicap": 2
+            },
+            "skybet": {
+                "home_over_1_5_sets_handicap": 1.6153846,
+                "away_under_1_5_sets_handicap": 2.2
+            }
+        }
+    },
+    {
+        "id": "3561717475",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Mccartney Kessler",
+        "away_name": "Linda Noskova",
+        "name": "Mccartney Kessler v Linda Noskova",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "mccartney kessler-v-linda noskova",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/mccartney-kessler-v-linda-noskova/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497800,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "yes_away_win_a_set": 1.04,
+                "no_away_win_a_set": 12
+            },
+            "ladbrokes": {
+                "yes_away_win_a_set": 1.04,
+                "no_away_win_a_set": 12
+            },
+            "vbet": {
+                "yes_away_win_a_set": 1.03,
+                "no_away_win_a_set": 8.7
+            },
+            "livescorebet": {
+                "yes_away_win_a_set": 1.015,
+                "no_away_win_a_set": 10
+            },
+            "betuk": {},
+            "betmgmuk": {},
+            "skybet": {},
+            "unibet": {},
+            "betfairsportsbook": {
+                "no_away_win_a_set": 11
+            },
+            "paddypower": {
+                "no_away_win_a_set": 11
+            },
+            "betway": {
+                "no_away_win_a_set": 11
+            },
+            "betgoodwin": {
+                "no_away_win_a_set": 9.5
+            },
+            "quinnbet": {
+                "no_away_win_a_set": 9.5
+            },
+            "williamhill": {
+                "no_away_win_a_set": 9
+            }
+        }
+    },
+    {
+        "id": "3561749156",
+        "match_time": "01:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Iga Swiatek",
+        "away_name": "Danielle Collins",
+        "name": "Iga Swiatek v Danielle Collins",
+        "start_time": "2024-01-18 01:00:00",
+        "urlMap": "iga swiatek-v-danielle collins",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/iga-swiatek-v-danielle-collins/winner",
+        "is_live": false,
+        "timestamp": 1705539600.0,
+        "version": 1705497801,
+        "source": "oddschecker",
+        "odds": {
+            "skybet": {
+                "home_under_3_5_handicap": 1.1111112,
+                "away_over_9_5_handicap": 1.1428572,
+                "away_over_8_5_handicap": 1.3333334,
+                "home_under_5_5_handicap": 1.3333334,
+                "away_over_7_5_handicap": 1.6666666,
+                "home_under_6_5_handicap": 1.6153846,
+                "away_over_6_5_handicap": 2.2,
+                "home_under_7_5_handicap": 2.1,
+                "away_over_5_5_handicap": 3.25,
+                "home_under_8_5_handicap": 3.25,
+                "home_under_9_5_handicap": 5
+            },
+            "betway": {
+                "home_under_4_5_handicap": 1.22,
+                "away_over_8_5_handicap": 1.3,
+                "home_under_5_5_handicap": 1.44,
+                "home_under_6_5_handicap": 1.7,
+                "away_over_6_5_handicap": 2.05,
+                "home_under_7_5_handicap": 2.2,
+                "away_over_5_5_handicap": 2.6,
+                "home_under_8_5_handicap": 3.2,
+                "away_over_4_5_handicap": 3.8
+            },
+            "10bet": {
+                "home_under_4_5_handicap": 1.181,
+                "away_over_8_5_handicap": 1.25,
+                "home_under_5_5_handicap": 1.35,
+                "away_over_7_5_handicap": 1.6,
+                "home_under_6_5_handicap": 1.65,
+                "away_over_6_5_handicap": 2.1,
+                "home_under_7_5_handicap": 2.2,
+                "away_over_5_5_handicap": 2.95,
+                "home_under_8_5_handicap": 3.45
+            },
+            "midnite": {
+                "home_under_4_5_handicap": 1.18,
+                "away_over_8_5_handicap": 1.25,
+                "home_under_5_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.57,
+                "home_under_6_5_handicap": 1.65,
+                "away_over_6_5_handicap": 2.05,
+                "home_under_7_5_handicap": 2.2,
+                "away_over_5_5_handicap": 2.75,
+                "home_under_8_5_handicap": 3.4,
+                "away_over_4_5_handicap": 4
+            },
+            "betuk": {
+                "away_over_8_5_handicap": 1.26,
+                "home_under_5_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.57,
+                "home_under_6_5_handicap": 1.7,
+                "away_over_6_5_handicap": 2.12,
+                "home_under_7_5_handicap": 2.33,
+                "away_over_5_5_handicap": 3,
+                "home_under_8_5_handicap": 3.65
+            },
+            "betmgmuk": {
+                "away_over_8_5_handicap": 1.26,
+                "home_under_5_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.57,
+                "home_under_6_5_handicap": 1.7,
+                "away_over_6_5_handicap": 2.12,
+                "home_under_7_5_handicap": 2.33,
+                "away_over_5_5_handicap": 3,
+                "home_under_8_5_handicap": 3.65
+            },
+            "unibet": {
+                "away_over_8_5_handicap": 1.26,
+                "home_under_5_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.57,
+                "home_under_6_5_handicap": 1.7,
+                "away_over_6_5_handicap": 2.12,
+                "home_under_7_5_handicap": 2.33,
+                "away_over_5_5_handicap": 3,
+                "home_under_8_5_handicap": 3.65
+            },
+            "betfred": {
+                "home_over_5_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.62,
+                "home_over_6_5_handicap": 1.67,
+                "away_over_6_5_handicap": 2.1,
+                "home_over_7_5_handicap": 2.2,
+                "away_over_5_5_handicap": 3
+            },
+            "matchbook": {
+                "home_under_5_5_handicap": 1.21,
+                "away_over_7_5_handicap": 1.61,
+                "home_under_6_5_handicap": 1.73,
+                "away_over_6_5_handicap": 2.18,
+                "home_under_7_5_handicap": 2.39,
+                "away_over_5_5_handicap": 2.25,
+                "away_over_4_5_handicap": 2.84,
+                "away_over_3_5_handicap": 4.14
+            },
+            "williamhill": {
+                "away_over_7_5_handicap": 1.67,
+                "home_under_7_5_handicap": 2.1
+            },
+            "boylesports": {
+                "home_under_6_5_handicap": 1.91,
+                "away_over_6_5_handicap": 1.8
+            },
+            "betgoodwin": {
+                "home_under_6_5_handicap": 1.73,
+                "away_over_6_5_handicap": 2.05
+            },
+            "quinnbet": {
+                "home_under_6_5_handicap": 1.73,
+                "away_over_6_5_handicap": 2.05
+            },
+            "sportingindex": {
+                "home_under_6_5_handicap": 1.73,
+                "away_over_6_5_handicap": 2
+            },
+            "spreadex": {
+                "home_under_6_5_handicap": 1.73,
+                "away_over_6_5_handicap": 2
+            },
+            "bet365": {
+                "home_under_6_5_handicap": 1.727,
+                "away_over_6_5_handicap": 2
+            },
+            "888sport": {
+                "home_under_6_5_handicap": 1.727,
+                "away_over_6_5_handicap": 2.05
+            },
+            "betvictor": {
+                "home_under_6_5_handicap": 1.7,
+                "away_over_6_5_handicap": 2.1
+            },
+            "vbet": {
+                "home_under_6_5_handicap": 1.7,
+                "away_over_6_5_handicap": 2.13
+            },
+            "coral": {
+                "home_under_6_5_handicap": 1.67,
+                "away_over_6_5_handicap": 2.1
+            },
+            "ladbrokes": {
+                "home_under_6_5_handicap": 1.67,
+                "away_over_6_5_handicap": 2.1
+            },
+            "livescorebet": {
+                "home_under_6_5_handicap": 1.66,
+                "away_over_6_5_handicap": 2.15
+            },
+            "betfair": {
+                "home_under_8_5_handicap": 3.01
+            }
+        }
+    },
+    {
+        "id": "3561749153",
+        "match_time": "01:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Oceane Dodin",
+        "away_name": "Martina Trevisan",
+        "name": "Oceane Dodin v Martina Trevisan",
+        "start_time": "2024-01-18 01:30:00",
+        "urlMap": "oceane dodin-v-martina trevisan",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/oceane-dodin-v-martina-trevisan/winner",
+        "is_live": false,
+        "timestamp": 1705541400.0,
+        "version": 1705497802,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "no_1s_tie_break": 1.1,
+                "yes_1s_tie_break": 6.5
+            },
+            "ladbrokes": {
+                "no_1s_tie_break": 1.1,
+                "yes_1s_tie_break": 6.5
+            }
+        }
+    },
+    {
+        "id": "3561752060",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Qinwen Zheng",
+        "away_name": "Katie Boulter",
+        "name": "Qinwen Zheng v Katie Boulter",
+        "start_time": "2024-01-18 02:00:00",
+        "urlMap": "qinwen zheng-v-katie boulter",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/qinwen-zheng-v-katie-boulter/winner",
+        "is_live": false,
+        "timestamp": 1705543200.0,
+        "version": 1705497803,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "home_win": 1.35,
+                "away_win": 3.5
+            },
+            "matchbook": {
+                "home_win": 1.35,
+                "away_win": 3.5
+            },
+            "betfairsportsbook": {
+                "home_win": 1.3333334,
+                "away_win": 3.25
+            },
+            "bet365": {
+                "home_win": 1.333,
+                "away_win": 3.4
+            },
+            "10bet": {
+                "home_win": 1.333,
+                "away_win": 3.2
+            },
+            "coral": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "betfred": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "ladbrokes": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "livescorebet": {
+                "home_win": 1.33,
+                "away_win": 3.3
+            },
+            "starsports": {
+                "home_win": 1.33,
+                "away_win": 3.4
+            },
+            "sportingindex": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "spreadex": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "betvictor": {
+                "home_win": 1.33,
+                "away_win": 3.4
+            },
+            "williamhill": {
+                "home_win": 1.33,
+                "away_win": 3.3
+            },
+            "vbet": {
+                "home_win": 1.32,
+                "away_win": 3.25
+            },
+            "boylesports": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betuk": {
+                "home_win": 1.3,
+                "away_win": 3.55
+            },
+            "888sport": {
+                "home_win": 1.3,
+                "away_win": 3.35
+            },
+            "betgoodwin": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betmgmuk": {
+                "home_win": 1.3,
+                "away_win": 3.55
+            },
+            "paddypower": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "quinnbet": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "unibet": {
+                "home_win": 1.3,
+                "away_win": 3.55
+            },
+            "betway": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "midnite": {
+                "home_win": 1.29,
+                "away_win": 3.1
+            },
+            "skybet": {
+                "home_win": 1.2857143,
+                "away_win": 3.5
+            }
+        }
+    },
+    {
+        "id": "3561749155",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Sloane Stephens",
+        "away_name": "Daria Kasatkina",
+        "name": "Sloane Stephens v Daria Kasatkina",
+        "start_time": "2024-01-18 02:00:00",
+        "urlMap": "sloane stephens-v-daria kasatkina",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/sloane-stephens-v-daria-kasatkina/winner",
+        "is_live": false,
+        "timestamp": 1705543200.0,
+        "version": 1705497804,
+        "source": "oddschecker",
+        "odds": {
+            "betgoodwin": {
+                "away_win_1s": 1.73,
+                "home_win_1s": 2.1
+            },
+            "quinnbet": {
+                "away_win_1s": 1.73,
+                "home_win_1s": 2.1
+            },
+            "vbet": {
+                "away_win_1s": 1.71,
+                "home_win_1s": 2.12
+            },
+            "boylesports": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.15
+            },
+            "coral": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.15
+            },
+            "betuk": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.2
+            },
+            "betfred": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "betmgmuk": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.2
+            },
+            "ladbrokes": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.15
+            },
+            "unibet": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.2
+            },
+            "betvictor": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "williamhill": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "888sport": {
+                "away_win_1s": 1.667,
+                "home_win_1s": 2.05
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.6666666,
+                "home_win_1s": 2.1
+            },
+            "paddypower": {
+                "away_win_1s": 1.6666666,
+                "home_win_1s": 2.1
+            },
+            "skybet": {
+                "away_win_1s": 1.6666666,
+                "home_win_1s": 2.1
+            },
+            "bet365": {
+                "away_win_1s": 1.666,
+                "home_win_1s": 2.2
+            },
+            "10bet": {
+                "away_win_1s": 1.666,
+                "home_win_1s": 2.15
+            },
+            "betfair": {
+                "away_win_1s": 1.66,
+                "home_win_1s": 2.08
+            },
+            "livescorebet": {
+                "away_win_1s": 1.66,
+                "home_win_1s": 2.1
+            },
+            "starsports": {
+                "away_win_1s": 1.66,
+                "home_win_1s": 2.2
+            },
+            "midnite": {
+                "away_win_1s": 1.65,
+                "home_win_1s": 2.05
+            },
+            "betway": {
+                "away_win_1s": 1.65,
+                "home_win_1s": 2.1
+            }
+        }
+    },
+    {
+        "id": "3561719594",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Tatjana Maria",
+        "away_name": "Jasmine Paolini",
+        "name": "Tatjana Maria v Jasmine Paolini",
+        "start_time": "2024-01-18 02:00:00",
+        "urlMap": "tatjana maria-v-jasmine paolini",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/tatjana-maria-v-jasmine-paolini/winner",
+        "is_live": false,
+        "timestamp": 1705543200.0,
+        "version": 1705497805,
+        "source": "oddschecker",
+        "odds": {
+            "betuk": {
+                "yes_away_win_a_set": 1.16,
+                "no_away_win_a_set": 5.4
+            },
+            "betmgmuk": {
+                "yes_away_win_a_set": 1.16,
+                "no_away_win_a_set": 5.4
+            },
+            "unibet": {
+                "yes_away_win_a_set": 1.16,
+                "no_away_win_a_set": 5.4
+            },
+            "coral": {
+                "yes_away_win_a_set": 1.15,
+                "no_away_win_a_set": 5.25
+            },
+            "betgoodwin": {
+                "yes_away_win_a_set": 1.15,
+                "no_away_win_a_set": 5
+            },
+            "ladbrokes": {
+                "yes_away_win_a_set": 1.15,
+                "no_away_win_a_set": 5.25
+            },
+            "quinnbet": {
+                "yes_away_win_a_set": 1.15,
+                "no_away_win_a_set": 5
+            },
+            "vbet": {
+                "yes_away_win_a_set": 1.14,
+                "no_away_win_a_set": 4.9
+            },
+            "williamhill": {
+                "yes_away_win_a_set": 1.14,
+                "no_away_win_a_set": 5
+            },
+            "livescorebet": {
+                "yes_away_win_a_set": 1.13,
+                "no_away_win_a_set": 4.8
+            },
+            "betway": {
+                "yes_away_win_a_set": 1.12,
+                "no_away_win_a_set": 5.25
+            },
+            "betfairsportsbook": {
+                "yes_away_win_a_set": 1.1111112,
+                "no_away_win_a_set": 6
+            },
+            "paddypower": {
+                "yes_away_win_a_set": 1.1111112,
+                "no_away_win_a_set": 6
+            },
+            "skybet": {
+                "yes_away_win_a_set": 1.1111112,
+                "no_away_win_a_set": 6
+            }
+        }
+    },
+    {
+        "id": "3561761145",
+        "match_time": "03:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Clara Burel",
+        "away_name": "Jessica Pegula",
+        "name": "Clara Burel v Jessica Pegula",
+        "start_time": "2024-01-18 03:00:00",
+        "urlMap": "clara burel-v-jessica pegula",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/clara-burel-v-jessica-pegula/winner",
+        "is_live": false,
+        "timestamp": 1705546800.0,
+        "version": 1705497806,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "away_win": 1.17,
+                "home_win": 6.1
+            },
+            "matchbook": {
+                "away_win": 1.17,
+                "home_win": 6.1
+            },
+            "vbet": {
+                "away_win": 1.16,
+                "home_win": 5.1
+            },
+            "coral": {
+                "away_win": 1.15,
+                "home_win": 5.25
+            },
+            "betuk": {
+                "away_win": 1.15,
+                "home_win": 5.75
+            },
+            "betmgmuk": {
+                "away_win": 1.15,
+                "home_win": 5.75
+            },
+            "ladbrokes": {
+                "away_win": 1.15,
+                "home_win": 5.25
+            },
+            "sportingindex": {
+                "away_win": 1.15,
+                "home_win": 5.25
+            },
+            "spreadex": {
+                "away_win": 1.15,
+                "home_win": 5.25
+            },
+            "unibet": {
+                "away_win": 1.15,
+                "home_win": 5.75
+            },
+            "betvictor": {
+                "away_win": 1.15,
+                "home_win": 5.5
+            },
+            "betway": {
+                "away_win": 1.15,
+                "home_win": 5.5
+            },
+            "betfairsportsbook": {
+                "away_win": 1.1428572,
+                "home_win": 5.5
+            },
+            "betfred": {
+                "away_win": 1.14,
+                "home_win": 5.5
+            },
+            "livescorebet": {
+                "away_win": 1.14,
+                "home_win": 5.5
+            },
+            "williamhill": {
+                "away_win": 1.14,
+                "home_win": 5.5
+            },
+            "888sport": {
+                "away_win": 1.133,
+                "home_win": 5.6
+            },
+            "boylesports": {
+                "away_win": 1.13,
+                "home_win": 6
+            },
+            "betgoodwin": {
+                "away_win": 1.13,
+                "home_win": 5.5
+            },
+            "midnite": {
+                "away_win": 1.13,
+                "home_win": 5
+            },
+            "quinnbet": {
+                "away_win": 1.13,
+                "home_win": 5.5
+            },
+            "starsports": {
+                "away_win": 1.13,
+                "home_win": 5.5
+            },
+            "bet365": {
+                "away_win": 1.125,
+                "home_win": 6
+            },
+            "10bet": {
+                "away_win": 1.125,
+                "home_win": 5.5
+            },
+            "paddypower": {
+                "away_win": 1.125,
+                "home_win": 6
+            },
+            "skybet": {
+                "away_win": 1.125,
+                "home_win": 5.5
+            }
+        }
+    },
+    {
+        "id": "3561750095",
+        "match_time": "03:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Emma Navarro",
+        "away_name": "Elisabetta Cocciaretto",
+        "name": "Emma Navarro v Elisabetta Cocciaretto",
+        "start_time": "2024-01-18 03:30:00",
+        "urlMap": "emma navarro-v-elisabetta cocciaretto",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/emma-navarro-v-elisabetta-cocciaretto/winner",
+        "is_live": false,
+        "timestamp": 1705548600.0,
+        "version": 1705497807,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_win": 1.333,
+                "away_win": 3.4
+            },
+            "betfair": {
+                "home_win": 1.33,
+                "away_win": 3.69
+            },
+            "matchbook": {
+                "home_win": 1.33,
+                "away_win": 3.69
+            },
+            "sportingindex": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "spreadex": {
+                "home_win": 1.33,
+                "away_win": 3.25
+            },
+            "boylesports": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betuk": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "888sport": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betfairsportsbook": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betgoodwin": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betmgmuk": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "livescorebet": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "paddypower": {
+                "home_win": 1.3,
+                "away_win": 3.6
+            },
+            "quinnbet": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "starsports": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "unibet": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "betvictor": {
+                "home_win": 1.3,
+                "away_win": 3.6
+            },
+            "betway": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "williamhill": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "betfred": {
+                "home_win": 1.29,
+                "away_win": 3.5
+            },
+            "skybet": {
+                "home_win": 1.2857143,
+                "away_win": 3.5
+            },
+            "10bet": {
+                "home_win": 1.285,
+                "away_win": 3.5
+            },
+            "coral": {
+                "home_win": 1.28,
+                "away_win": 3.6
+            },
+            "ladbrokes": {
+                "home_win": 1.28,
+                "away_win": 3.6
+            },
+            "vbet": {
+                "home_win": 1.28,
+                "away_win": 3.5
+            },
+            "midnite": {
+                "home_win": 1.25,
+                "away_win": 3.4
+            }
+        }
+    },
+    {
+        "id": "3561753953",
+        "match_time": "03:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Emma Raducanu",
+        "away_name": "Yafan Wang",
+        "name": "Emma Raducanu v Yafan Wang",
+        "start_time": "2024-01-18 03:30:00",
+        "urlMap": "emma raducanu-v-yafan wang",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/emma-raducanu-v-yafan-wang/winner",
+        "is_live": false,
+        "timestamp": 1705548600.0,
+        "version": 1705497807,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "under_12_5_1s_total_games": 1.083,
+                "under_10_5_1s_total_games": 1.2,
+                "over_8_5_1s_total_games": 1.5,
+                "under_8_5_1s_total_games": 2.5,
+                "over_10_5_1s_total_games": 4.333,
+                "over_12_5_1s_total_games": 8
+            },
+            "coral": {
+                "under_12_5_1s_total_games": 1.08,
+                "under_10_5_1s_total_games": 1.2,
+                "over_8_5_1s_total_games": 1.53,
+                "under_8_5_1s_total_games": 2.4,
+                "over_10_5_1s_total_games": 4.33,
+                "over_12_5_1s_total_games": 8
+            },
+            "ladbrokes": {
+                "under_12_5_1s_total_games": 1.08,
+                "under_10_5_1s_total_games": 1.2,
+                "over_8_5_1s_total_games": 1.53,
+                "under_8_5_1s_total_games": 2.4,
+                "over_10_5_1s_total_games": 4.33,
+                "over_12_5_1s_total_games": 8
+            },
+            "vbet": {
+                "under_12_5_1s_total_games": 1.08,
+                "under_10_5_1s_total_games": 1.19,
+                "over_8_5_1s_total_games": 1.53,
+                "under_8_5_1s_total_games": 2.43,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 7.7
+            },
+            "skybet": {
+                "under_12_5_1s_total_games": 1.0714285,
+                "under_10_5_1s_total_games": 1.1666666,
+                "over_8_5_1s_total_games": 1.4444444,
+                "under_8_5_1s_total_games": 2.625,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 7.5
+            },
+            "livescorebet": {
+                "under_12_5_1s_total_games": 1.07,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.53,
+                "under_8_5_1s_total_games": 2.37,
+                "over_10_5_1s_total_games": 4.33,
+                "over_12_5_1s_total_games": 7
+            },
+            "betfairsportsbook": {
+                "under_12_5_1s_total_games": 1.0625,
+                "under_10_5_1s_total_games": 1.1666666,
+                "over_8_5_1s_total_games": 1.4444444,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 7.5
+            },
+            "paddypower": {
+                "under_12_5_1s_total_games": 1.0625,
+                "under_10_5_1s_total_games": 1.1666666,
+                "over_8_5_1s_total_games": 1.4444444,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 7.5
+            },
+            "betuk": {
+                "under_12_5_1s_total_games": 1.06,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.49,
+                "under_8_5_1s_total_games": 2.55,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8.5
+            },
+            "betmgmuk": {
+                "under_12_5_1s_total_games": 1.06,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.49,
+                "under_8_5_1s_total_games": 2.55,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8.5
+            },
+            "midnite": {
+                "under_12_5_1s_total_games": 1.06,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.5,
+                "under_8_5_1s_total_games": 2.3,
+                "over_10_5_1s_total_games": 4,
+                "over_12_5_1s_total_games": 7
+            },
+            "unibet": {
+                "under_12_5_1s_total_games": 1.06,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.49,
+                "under_8_5_1s_total_games": 2.55,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8.5
+            }
+        }
+    },
+    {
+        "id": "3561717472",
+        "match_time": "04:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Elina Svitolina",
+        "away_name": "Viktoriya Tomova",
+        "name": "Elina Svitolina v Viktoriya Tomova",
+        "start_time": "2024-01-18 04:00:00",
+        "urlMap": "elina svitolina-v-viktoriya tomova",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/elina-svitolina-v-viktoriya-tomova/winner",
+        "is_live": false,
+        "timestamp": 1705550400.0,
+        "version": 1705497808,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "no_1s_tie_break": 1.07,
+                "yes_1s_tie_break": 8
+            },
+            "ladbrokes": {
+                "no_1s_tie_break": 1.07,
+                "yes_1s_tie_break": 8
+            }
+        }
+    },
+    {
+        "id": "3561726446",
+        "match_time": "04:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Katerina Siniakova",
+        "away_name": "Viktorija Golubic",
+        "name": "Katerina Siniakova v Viktorija Golubic",
+        "start_time": "2024-01-18 04:00:00",
+        "urlMap": "katerina siniakova-v-viktorija golubic",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/katerina-siniakova-v-viktorija-golubic/winner",
+        "is_live": false,
+        "timestamp": 1705550400.0,
+        "version": 1705497809,
+        "source": "oddschecker",
+        "odds": {
+            "betfairsportsbook": {
+                "under_2_5_total_sets": 1.5714285,
+                "over_2_5_total_sets": 2.25
+            },
+            "paddypower": {
+                "under_2_5_total_sets": 1.5714285,
+                "over_2_5_total_sets": 2.25
+            },
+            "skybet": {
+                "under_2_5_total_sets": 1.5714285,
+                "over_2_5_total_sets": 2.2
+            },
+            "vbet": {
+                "under_2_5_total_sets": 1.55,
+                "over_2_5_total_sets": 2.4
+            },
+            "boylesports": {
+                "under_2_5_total_sets": 1.54,
+                "over_2_5_total_sets": 2.3
+            },
+            "betuk": {
+                "under_2_5_total_sets": 1.5,
+                "over_2_5_total_sets": 2.55
+            },
+            "betmgmuk": {
+                "under_2_5_total_sets": 1.5,
+                "over_2_5_total_sets": 2.55
+            },
+            "livescorebet": {
+                "under_2_5_total_sets": 1.5,
+                "over_2_5_total_sets": 2.37
+            },
+            "unibet": {
+                "under_2_5_total_sets": 1.5,
+                "over_2_5_total_sets": 2.55
+            },
+            "betway": {
+                "under_2_5_total_sets": 1.4,
+                "over_2_5_total_sets": 2.6
+            }
+        }
+    },
+    {
+        "id": "3561717474",
+        "match_time": "04:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Varvara Gracheva",
+        "away_name": "Dayana Yastremska",
+        "name": "Varvara Gracheva v Dayana Yastremska",
+        "start_time": "2024-01-18 04:30:00",
+        "urlMap": "varvara gracheva-v-dayana yastremska",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/varvara-gracheva-v-dayana-yastremska/winner",
+        "is_live": false,
+        "timestamp": 1705552200.0,
+        "version": 1705497810,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "no_1s_tie_break": 1.12,
+                "yes_1s_tie_break": 6
+            },
+            "ladbrokes": {
+                "no_1s_tie_break": 1.12,
+                "yes_1s_tie_break": 6
+            }
+        }
+    },
+    {
+        "id": "3561752219",
+        "match_time": "08:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Elena Rybakina",
+        "away_name": "Anna Blinkova",
+        "name": "Elena Rybakina v Anna Blinkova",
+        "start_time": "2024-01-18 08:00:00",
+        "urlMap": "elena rybakina-v-anna blinkova",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/elena-rybakina-v-anna-blinkova/winner",
+        "is_live": false,
+        "timestamp": 1705564800.0,
+        "version": 1705497811,
+        "source": "oddschecker",
+        "odds": {
+            "betfred": {
+                "home_under_1_5_sets_handicap": 1.01,
+                "away_over_1_5_sets_handicap": 3.75,
+                "away_under_1_5_sets_handicap": 15
+            },
+            "10bet": {
+                "home_over_1_5_sets_handicap": 1.03,
+                "home_under_1_5_sets_handicap": 1.25,
+                "away_over_1_5_sets_handicap": 3.75,
+                "away_under_1_5_sets_handicap": 13
+            },
+            "coral": {
+                "home_over_1_5_sets_handicap": 1.02,
+                "home_under_1_5_sets_handicap": 1.25,
+                "away_over_1_5_sets_handicap": 3.7
+            },
+            "ladbrokes": {
+                "home_over_1_5_sets_handicap": 1.02,
+                "home_under_1_5_sets_handicap": 1.25,
+                "away_over_1_5_sets_handicap": 3.7
+            },
+            "betuk": {
+                "home_over_1_5_sets_handicap": 1.01,
+                "home_under_1_5_sets_handicap": 1.27,
+                "away_over_1_5_sets_handicap": 3.7
+            },
+            "betmgmuk": {
+                "home_over_1_5_sets_handicap": 1.01,
+                "home_under_1_5_sets_handicap": 1.27,
+                "away_over_1_5_sets_handicap": 3.7
+            },
+            "midnite": {
+                "home_over_1_5_sets_handicap": 1.01,
+                "home_under_1_5_sets_handicap": 1.22,
+                "away_over_1_5_sets_handicap": 3.6,
+                "away_under_1_5_sets_handicap": 11
+            },
+            "unibet": {
+                "home_over_1_5_sets_handicap": 1.01,
+                "home_under_1_5_sets_handicap": 1.27,
+                "away_over_1_5_sets_handicap": 3.7
+            },
+            "vbet": {
+                "home_over_1_5_sets_handicap": 1.01,
+                "home_under_1_5_sets_handicap": 1.24,
+                "away_over_1_5_sets_handicap": 3.9
+            },
+            "betfairsportsbook": {
+                "home_over_1_5_sets_handicap": 1.005,
+                "home_under_1_5_sets_handicap": 1.2,
+                "away_over_1_5_sets_handicap": 4,
+                "away_under_1_5_sets_handicap": 15
+            },
+            "paddypower": {
+                "home_over_1_5_sets_handicap": 1.005,
+                "home_under_1_5_sets_handicap": 1.2,
+                "away_over_1_5_sets_handicap": 4,
+                "away_under_1_5_sets_handicap": 15
+            },
+            "livescorebet": {
+                "home_over_1_5_sets_handicap": 1.001,
+                "home_under_1_5_sets_handicap": 1.25,
+                "away_over_1_5_sets_handicap": 3.1
+            },
+            "888sport": {
+                "home_under_1_5_sets_handicap": 1.222,
+                "away_over_1_5_sets_handicap": 3.85
+            },
+            "betgoodwin": {
+                "home_under_1_5_sets_handicap": 1.22,
+                "away_over_1_5_sets_handicap": 4
+            },
+            "quinnbet": {
+                "home_under_1_5_sets_handicap": 1.22,
+                "away_over_1_5_sets_handicap": 4
+            },
+            "skybet": {
+                "home_under_1_5_sets_handicap": 1.2,
+                "away_over_1_5_sets_handicap": 4.3333335
+            },
+            "betway": {
+                "home_under_1_5_sets_handicap": 1.2,
+                "away_over_1_5_sets_handicap": 4,
+                "away_under_1_5_sets_handicap": 12
+            }
+        }
+    },
+    {
+        "id": "3561761741",
+        "match_time": "08:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Jelena Ostapenko",
+        "away_name": "Ajla Tomljanovic",
+        "name": "Jelena Ostapenko v Ajla Tomljanovic",
+        "start_time": "2024-01-18 08:00:00",
+        "urlMap": "jelena ostapenko-v-ajla tomljanovic",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/jelena-ostapenko-v-ajla-tomljanovic/winner",
+        "is_live": false,
+        "timestamp": 1705564800.0,
+        "version": 1705497816,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "under_12_5_1s_total_games": 1.1,
+                "under_10_5_1s_total_games": 1.22,
+                "over_8_5_1s_total_games": 1.48,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4,
+                "over_12_5_1s_total_games": 7
+            },
+            "ladbrokes": {
+                "under_12_5_1s_total_games": 1.1,
+                "under_10_5_1s_total_games": 1.22,
+                "over_8_5_1s_total_games": 1.48,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4,
+                "over_12_5_1s_total_games": 7
+            },
+            "bet365": {
+                "under_12_5_1s_total_games": 1.083,
+                "under_10_5_1s_total_games": 1.2,
+                "over_8_5_1s_total_games": 1.5,
+                "under_8_5_1s_total_games": 2.5,
+                "over_10_5_1s_total_games": 4.333,
+                "over_12_5_1s_total_games": 8
+            },
+            "livescorebet": {
+                "under_12_5_1s_total_games": 1.08,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.5,
+                "under_8_5_1s_total_games": 2.4,
+                "over_10_5_1s_total_games": 4.2,
+                "over_12_5_1s_total_games": 6.5
+            },
+            "vbet": {
+                "under_12_5_1s_total_games": 1.08,
+                "under_10_5_1s_total_games": 1.21,
+                "over_8_5_1s_total_games": 1.52,
+                "under_8_5_1s_total_games": 2.45,
+                "over_10_5_1s_total_games": 4.25,
+                "over_12_5_1s_total_games": 7.7
+            },
+            "betuk": {
+                "under_12_5_1s_total_games": 1.07,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.47,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8
+            },
+            "betmgmuk": {
+                "under_12_5_1s_total_games": 1.07,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.47,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8
+            },
+            "unibet": {
+                "under_12_5_1s_total_games": 1.07,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.47,
+                "under_8_5_1s_total_games": 2.6,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8
+            },
+            "skybet": {
+                "under_12_5_1s_total_games": 1.0625,
+                "under_10_5_1s_total_games": 1.1666666,
+                "over_8_5_1s_total_games": 1.4444444,
+                "under_8_5_1s_total_games": 2.625,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8
+            },
+            "midnite": {
+                "under_12_5_1s_total_games": 1.06,
+                "under_10_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.44,
+                "under_8_5_1s_total_games": 2.45,
+                "over_10_5_1s_total_games": 4,
+                "over_12_5_1s_total_games": 7
+            },
+            "betfairsportsbook": {
+                "under_12_5_1s_total_games": 1.0555556,
+                "under_10_5_1s_total_games": 1.1666666,
+                "over_8_5_1s_total_games": 1.4444444,
+                "under_8_5_1s_total_games": 2.625,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8
+            },
+            "paddypower": {
+                "under_12_5_1s_total_games": 1.0555556,
+                "under_10_5_1s_total_games": 1.1666666,
+                "over_8_5_1s_total_games": 1.4444444,
+                "under_8_5_1s_total_games": 2.625,
+                "over_10_5_1s_total_games": 4.5,
+                "over_12_5_1s_total_games": 8
+            }
+        }
+    },
+    {
+        "id": "3561749963",
+        "match_time": "10:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Clara Tauson",
+        "away_name": "Victoria Azarenka",
+        "name": "Clara Tauson v Victoria Azarenka",
+        "start_time": "2024-01-18 10:00:00",
+        "urlMap": "clara tauson-v-victoria azarenka",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/clara-tauson-v-victoria-azarenka/winner",
+        "is_live": false,
+        "timestamp": 1705572000.0,
+        "version": 1705497817,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "away_under_9_5_handicap": 29,
+                "away_over_0_5_handicap": 1.3,
+                "away_over_1_5_handicap": 1.26,
+                "home_under_9_5_handicap": 274,
+                "away_under_7_5_handicap": 6.1,
+                "home_under_0_5_handicap": 3.55,
+                "home_under_8_5_handicap": 93,
+                "home_under_2_5_handicap": 4.33,
+                "home_under_7_5_handicap": 37,
+                "away_under_10_5_handicap": 93,
+                "home_under_1_5_handicap": 3.89,
+                "away_under_11_5_handicap": 578,
+                "home_under_6_5_handicap": 18.6,
+                "away_under_0_5_handicap": 1.34,
+                "home_over_6_5_handicap": 1.29,
+                "away_under_1_5_handicap": 1.39,
+                "home_over_5_5_handicap": 1.52,
+                "away_under_3_5_handicap": 1.63,
+                "home_over_4_5_handicap": 1.88,
+                "away_under_4_5_handicap": 2,
+                "away_under_2_5_handicap": 1.47,
+                "home_over_3_5_handicap": 2.25,
+                "away_under_5_5_handicap": 2.51,
+                "home_over_2_5_handicap": 2.65,
+                "home_over_1_5_handicap": 2.96,
+                "home_over_0_5_handicap": 3.25,
+                "away_under_6_5_handicap": 3.65
+            },
+            "skybet": {
+                "home_over_8_5_handicap": 1.0714285,
+                "away_under_0_5_handicap": 1.2857143,
+                "home_over_6_5_handicap": 1.3333334,
+                "home_over_5_5_handicap": 1.5714285,
+                "away_under_3_5_handicap": 1.5714285,
+                "home_over_4_5_handicap": 1.8333334,
+                "away_under_4_5_handicap": 1.8333334,
+                "away_under_2_5_handicap": 1.4,
+                "home_over_3_5_handicap": 2.25,
+                "away_under_5_5_handicap": 2.25,
+                "home_over_2_5_handicap": 2.75,
+                "home_over_0_5_handicap": 3.5,
+                "away_under_6_5_handicap": 3.25,
+                "away_under_8_5_handicap": 7.5
+            },
+            "betfairsportsbook": {
+                "away_under_0_5_handicap": 1.2857143,
+                "away_under_3_5_handicap": 1.5714285,
+                "away_under_4_5_handicap": 1.8,
+                "away_under_5_5_handicap": 2.25,
+                "away_under_6_5_handicap": 3.2,
+                "away_under_8_5_handicap": 7.5
+            },
+            "paddypower": {
+                "away_under_0_5_handicap": 1.2857143,
+                "away_under_3_5_handicap": 1.5714285,
+                "away_under_4_5_handicap": 1.8,
+                "away_under_5_5_handicap": 2.25,
+                "away_under_6_5_handicap": 3.2,
+                "away_under_8_5_handicap": 7.5
+            },
+            "betway": {
+                "home_over_6_5_handicap": 1.3,
+                "home_over_5_5_handicap": 1.5,
+                "away_under_3_5_handicap": 1.6,
+                "home_over_4_5_handicap": 1.8,
+                "away_under_4_5_handicap": 1.9,
+                "away_under_2_5_handicap": 1.44,
+                "home_over_3_5_handicap": 2.2,
+                "away_under_5_5_handicap": 2.4,
+                "home_over_2_5_handicap": 2.6,
+                "away_under_6_5_handicap": 3.2
+            },
+            "midnite": {
+                "home_over_6_5_handicap": 1.29,
+                "home_over_5_5_handicap": 1.5,
+                "away_under_3_5_handicap": 1.57,
+                "home_over_4_5_handicap": 1.8,
+                "away_under_4_5_handicap": 1.85,
+                "away_under_2_5_handicap": 1.4,
+                "home_over_3_5_handicap": 2.2,
+                "away_under_5_5_handicap": 2.3,
+                "home_over_2_5_handicap": 2.63,
+                "away_under_6_5_handicap": 3.1
+            },
+            "10bet": {
+                "home_over_6_5_handicap": 1.25,
+                "home_over_5_5_handicap": 1.533,
+                "away_under_3_5_handicap": 1.6,
+                "home_over_4_5_handicap": 1.85,
+                "away_under_4_5_handicap": 1.85,
+                "away_under_2_5_handicap": 1.42,
+                "home_over_3_5_handicap": 2.2,
+                "away_under_5_5_handicap": 2.375,
+                "home_over_2_5_handicap": 2.625,
+                "away_under_6_5_handicap": 3.45
+            },
+            "betuk": {
+                "home_over_6_5_handicap": 1.24,
+                "away_under_1_5_handicap": 1.34,
+                "home_over_5_5_handicap": 1.5,
+                "away_under_3_5_handicap": 1.58,
+                "home_over_4_5_handicap": 1.73,
+                "away_under_4_5_handicap": 2.07,
+                "home_over_3_5_handicap": 2.3,
+                "away_under_5_5_handicap": 2.48,
+                "home_over_1_5_handicap": 3.1,
+                "away_under_6_5_handicap": 3.8
+            },
+            "betmgmuk": {
+                "home_over_6_5_handicap": 1.24,
+                "away_under_1_5_handicap": 1.34,
+                "home_over_5_5_handicap": 1.5,
+                "away_under_3_5_handicap": 1.58,
+                "home_over_4_5_handicap": 1.73,
+                "away_under_4_5_handicap": 2.07,
+                "home_over_3_5_handicap": 2.3,
+                "away_under_5_5_handicap": 2.48,
+                "home_over_1_5_handicap": 3.1,
+                "away_under_6_5_handicap": 3.8
+            },
+            "unibet": {
+                "home_over_6_5_handicap": 1.24,
+                "away_under_1_5_handicap": 1.34,
+                "home_over_5_5_handicap": 1.5,
+                "away_under_3_5_handicap": 1.58,
+                "home_over_4_5_handicap": 1.73,
+                "away_under_4_5_handicap": 2.07,
+                "home_over_3_5_handicap": 2.3,
+                "away_under_5_5_handicap": 2.48,
+                "home_over_1_5_handicap": 3.1,
+                "away_under_6_5_handicap": 3.8
+            },
+            "betfred": {
+                "home_under_5_5_handicap": 1.53,
+                "away_under_3_5_handicap": 1.62,
+                "home_under_4_5_handicap": 1.83,
+                "away_under_4_5_handicap": 1.83,
+                "home_under_3_5_handicap": 2.2,
+                "away_under_5_5_handicap": 2.38
+            },
+            "matchbook": {
+                "home_over_5_5_handicap": 1.55,
+                "away_under_3_5_handicap": 1.63,
+                "home_over_4_5_handicap": 1.9,
+                "away_under_4_5_handicap": 1.98,
+                "away_under_2_5_handicap": 1.47,
+                "home_over_3_5_handicap": 2.27,
+                "away_under_5_5_handicap": 2.51,
+                "home_over_2_5_handicap": 2.65
+            },
+            "vbet": {
+                "home_over_5_5_handicap": 1.55,
+                "away_under_3_5_handicap": 1.62,
+                "home_over_4_5_handicap": 1.89,
+                "away_under_4_5_handicap": 1.92,
+                "away_under_2_5_handicap": 1.47,
+                "home_over_3_5_handicap": 2.25,
+                "away_under_5_5_handicap": 2.4,
+                "home_over_2_5_handicap": 2.57
+            },
+            "bet365": {
+                "away_under_3_5_handicap": 1.666,
+                "home_over_3_5_handicap": 2.1
+            },
+            "888sport": {
+                "home_over_4_5_handicap": 1.85,
+                "away_under_4_5_handicap": 1.9
+            },
+            "livescorebet": {
+                "home_over_4_5_handicap": 1.85,
+                "away_under_4_5_handicap": 1.9
+            },
+            "betvictor": {
+                "home_over_4_5_handicap": 1.85,
+                "away_under_4_5_handicap": 1.9
+            },
+            "williamhill": {
+                "home_over_4_5_handicap": 1.85,
+                "away_under_4_5_handicap": 1.85
+            },
+            "boylesports": {
+                "home_over_4_5_handicap": 1.83,
+                "away_under_4_5_handicap": 1.91
+            },
+            "betgoodwin": {
+                "home_over_4_5_handicap": 1.83,
+                "away_under_4_5_handicap": 1.91
+            },
+            "quinnbet": {
+                "home_over_4_5_handicap": 1.83,
+                "away_under_4_5_handicap": 1.91
+            },
+            "sportingindex": {
+                "home_over_4_5_handicap": 1.83,
+                "away_under_4_5_handicap": 1.83
+            },
+            "spreadex": {
+                "home_over_4_5_handicap": 1.83,
+                "away_under_4_5_handicap": 1.83
+            },
+            "coral": {
+                "home_over_4_5_handicap": 1.8,
+                "away_under_4_5_handicap": 1.91
+            },
+            "ladbrokes": {
+                "home_over_4_5_handicap": 1.8,
+                "away_under_4_5_handicap": 1.91
+            }
+        }
+    },
+    {
+        "id": "3561711406",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Arevalo/Pavic",
+        "away_name": "Frantzen/Jebens",
+        "name": "Arevalo/Pavic v Frantzen/Jebens",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "arevalo/pavic-v-frantzen/jebens",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/arevalo-pavic-v-frantzen-jebens/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497818,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_win_1s": 1.285,
+                "away_win_1s": 3.5
+            },
+            "10bet": {
+                "home_win_1s": 1.25,
+                "away_win_1s": 3.75
+            },
+            "skybet": {
+                "home_win_1s": 1.25,
+                "away_win_1s": 3.75
+            },
+            "betvictor": {
+                "home_win_1s": 1.25,
+                "away_win_1s": 3.5
+            },
+            "betfairsportsbook": {
+                "home_win_1s": 1.2222222,
+                "away_win_1s": 3.75
+            },
+            "paddypower": {
+                "home_win_1s": 1.2222222,
+                "away_win_1s": 3.75
+            }
+        }
+    },
+    {
+        "id": "3561772464",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Matteo Arnaldi/Pellegrino",
+        "away_name": "Balaji/Cornea",
+        "name": "Matteo Arnaldi/Pellegrino v Balaji/Cornea",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "matteo arnaldi/pellegrino-v-balaji/cornea",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/arnaldi-pellegrino-v-balaji-cornea/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497818,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_win": 1.909,
+                "away_win": 1.8
+            },
+            "betfairsportsbook": {
+                "home_win": 1.8333334,
+                "away_win": 2
+            },
+            "10bet": {
+                "home_win": 1.833,
+                "away_win": 1.9
+            },
+            "paddypower": {
+                "home_win": 1.7272727,
+                "away_win": 2
+            },
+            "skybet": {
+                "home_win": 1.7272727,
+                "away_win": 2
+            },
+            "betfair": {
+                "home_win": 1.72,
+                "away_win": 1.75
+            }
+        }
+    },
+    {
+        "id": "3561710934",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Sebastian Baez/Wild",
+        "away_name": "Muller/Sebastian Ofner",
+        "name": "Sebastian Baez/Wild v Muller/Sebastian Ofner",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "sebastian baez/wild-v-muller/sebastian ofner",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/baez-wild-v-muller-ofner/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497819,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_win_1s": 1.8,
+                "away_win_1s": 1.909
+            }
+        }
+    },
+    {
+        "id": "3561711407",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Behar/Pavlasek",
+        "away_name": "Murray/Venus",
+        "name": "Behar/Pavlasek v Murray/Venus",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "behar/pavlasek-v-murray/venus",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/behar-pavlasek-v-murray-venus/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497821,
+        "source": "oddschecker",
+        "odds": {
+            "10bet": {
+                "away_win_1s": 1.65,
+                "home_win_1s": 2.2
+            },
+            "betvictor": {
+                "away_win_1s": 1.62,
+                "home_win_1s": 2.2
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "paddypower": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "skybet": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "bet365": {
+                "away_win_1s": 1.615,
+                "home_win_1s": 2.2
+            }
+        }
+    },
+    {
+        "id": "3561714193",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Bolt/Saville",
+        "away_name": "Heliovaara/Peers",
+        "name": "Bolt/Saville v Heliovaara/Peers",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "bolt/saville-v-heliovaara/peers",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/bolt-saville-v-heliovaara-peers/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497821,
+        "source": "oddschecker",
+        "odds": {
+            "10bet": {
+                "away_win_1s": 1.45,
+                "home_win_1s": 2.625
+            },
+            "betvictor": {
+                "away_win_1s": 1.45,
+                "home_win_1s": 2.6
+            },
+            "skybet": {
+                "away_win_1s": 1.4444444,
+                "home_win_1s": 2.625
+            },
+            "bet365": {
+                "away_win_1s": 1.444,
+                "home_win_1s": 2.625
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.4,
+                "home_win_1s": 2.625
+            },
+            "livescorebet": {
+                "away_win_1s": 1.4,
+                "home_win_1s": 2.62
+            },
+            "paddypower": {
+                "away_win_1s": 1.4,
+                "home_win_1s": 2.625
+            },
+            "betfair": {
+                "away_win_1s": 1.39,
+                "home_win_1s": 2.59
+            }
+        }
+    },
+    {
+        "id": "3561711291",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Cabral/Patten",
+        "away_name": "Schoolkate/Walton",
+        "name": "Cabral/Patten v Schoolkate/Walton",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "cabral/patten-v-schoolkate/walton",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/cabral-patten-v-schoolkate-walton/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497822,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "home_win": 1.64,
+                "away_win": 2.43
+            },
+            "livescorebet": {
+                "home_win": 1.6,
+                "away_win": 2.1
+            },
+            "betvictor": {
+                "home_win": 1.6,
+                "away_win": 2.38
+            },
+            "betfairsportsbook": {
+                "home_win": 1.5714285,
+                "away_win": 2.25
+            },
+            "paddypower": {
+                "home_win": 1.5714285,
+                "away_win": 2.25
+            },
+            "skybet": {
+                "home_win": 1.5714285,
+                "away_win": 2.25
+            },
+            "bet365": {
+                "home_win": 1.571,
+                "away_win": 2.25
+            },
+            "10bet": {
+                "home_win": 1.571,
+                "away_win": 2.3
+            }
+        }
+    },
+    {
+        "id": "3561711758",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Chandrasekar/Prashanth",
+        "away_name": "Marton Fucsovics/Fabian Marozsan",
+        "name": "Chandrasekar/Prashanth v Marton Fucsovics/Fabian Marozsan",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "chandrasekar/prashanth-v-marton fucsovics/fabian marozsan",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/chandrasekar-prashanth-v-fucsovics-marozsan/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497823,
+        "source": "oddschecker",
+        "odds": {
+            "betfairsportsbook": {
+                "home_win": 1.75,
+                "away_win": 2.1
+            },
+            "betvictor": {
+                "home_win": 1.73,
+                "away_win": 2.1
+            },
+            "bet365": {
+                "home_win": 1.727,
+                "away_win": 2
+            },
+            "paddypower": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "skybet": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "10bet": {
+                "home_win": 1.666,
+                "away_win": 2.15
+            },
+            "livescorebet": {
+                "home_win": 1.66,
+                "away_win": 2
+            },
+            "betfair": {
+                "home_win": 1.43,
+                "away_win": 1.92
+            }
+        }
+    },
+    {
+        "id": "3561714315",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Daniell/Demoliner",
+        "away_name": "Millman/Winter",
+        "name": "Daniell/Demoliner v Millman/Winter",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "daniell/demoliner-v-millman/winter",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/daniell-demoliner-v-millman-winter/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497825,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "home_win": 1.31,
+                "away_win": 2.88
+            },
+            "bet365": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betvictor": {
+                "home_win": 1.3,
+                "away_win": 3.6
+            },
+            "betfairsportsbook": {
+                "home_win": 1.2857143,
+                "away_win": 3.25
+            },
+            "paddypower": {
+                "home_win": 1.2857143,
+                "away_win": 3.25
+            },
+            "skybet": {
+                "home_win": 1.2857143,
+                "away_win": 3.5
+            },
+            "10bet": {
+                "home_win": 1.285,
+                "away_win": 3.5
+            },
+            "livescorebet": {
+                "home_win": 1.25,
+                "away_win": 3.3
+            }
+        }
+    },
+    {
+        "id": "3561711021",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Hijikata/Kubler",
+        "away_name": "Laslo Djere/Christopher OConnell",
+        "name": "Hijikata/Kubler v Laslo Djere/Christopher OConnell",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "hijikata/kubler-v-laslo djere/christopher oconnell",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/djere-oconnell-v-hijikata-kubler/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497826,
+        "source": "oddschecker",
+        "odds": {
+            "betfairsportsbook": {
+                "home_win_1s": 1.3,
+                "away_win_1s": 3.2
+            },
+            "paddypower": {
+                "home_win_1s": 1.3,
+                "away_win_1s": 3.2
+            },
+            "betvictor": {
+                "home_win_1s": 1.3,
+                "away_win_1s": 3.25
+            },
+            "skybet": {
+                "home_win_1s": 1.2857143,
+                "away_win_1s": 3.5
+            },
+            "bet365": {
+                "home_win_1s": 1.285,
+                "away_win_1s": 3.5
+            },
+            "livescorebet": {
+                "home_win_1s": 1.25,
+                "away_win_1s": 3.4
+            }
+        }
+    },
+    {
+        "id": "3561714314",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Bopanna/Matthew Ebden",
+        "away_name": "Duckworth/Marc Polmans",
+        "name": "Bopanna/Matthew Ebden v Duckworth/Marc Polmans",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "bopanna/matthew ebden-v-duckworth/marc polmans",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/duckworth-polmans-v-bopanna-ebden/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497827,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_win_1s": 1.333,
+                "away_win_1s": 3.25
+            },
+            "betvictor": {
+                "home_win_1s": 1.3,
+                "away_win_1s": 3.2
+            },
+            "betfairsportsbook": {
+                "home_win_1s": 1.2857143,
+                "away_win_1s": 3.25
+            },
+            "paddypower": {
+                "home_win_1s": 1.2857143,
+                "away_win_1s": 3.25
+            },
+            "skybet": {
+                "home_win_1s": 1.2857143,
+                "away_win_1s": 3.5
+            },
+            "10bet": {
+                "home_win_1s": 1.285,
+                "away_win_1s": 3.5
+            },
+            "livescorebet": {
+                "home_win_1s": 1.25,
+                "away_win_1s": 3.4
+            }
+        }
+    },
+    {
+        "id": "3561711126",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Erler/Miedler",
+        "away_name": "Max Purcell/Thompson",
+        "name": "Erler/Miedler v Max Purcell/Thompson",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "erler/miedler-v-max purcell/thompson",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/erler-miedler-v-purcell-thompson/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497828,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "away_win": 1.5,
+                "home_win": 2.5
+            },
+            "betfairsportsbook": {
+                "away_win": 1.5,
+                "home_win": 2.625
+            },
+            "betvictor": {
+                "away_win": 1.45,
+                "home_win": 2.8
+            },
+            "paddypower": {
+                "away_win": 1.4444444,
+                "home_win": 2.625
+            },
+            "skybet": {
+                "away_win": 1.4444444,
+                "home_win": 2.625
+            },
+            "10bet": {
+                "away_win": 1.4,
+                "home_win": 2.8
+            },
+            "betfair": {
+                "away_win": 1.26,
+                "home_win": 2.49
+            }
+        }
+    },
+    {
+        "id": "3561711123",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Goransson/Olivetti",
+        "away_name": "Ellis/Harris",
+        "name": "Goransson/Olivetti v Ellis/Harris",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "goransson/olivetti-v-ellis/harris",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/goransson-olivetti-v-ellis-harris/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497829,
+        "source": "oddschecker",
+        "odds": {
+            "skybet": {
+                "home_win_1s": 1.6153846,
+                "away_win_1s": 2.2
+            },
+            "betvictor": {
+                "home_win_1s": 1.6,
+                "away_win_1s": 2.2
+            },
+            "betfairsportsbook": {
+                "home_win_1s": 1.5714285,
+                "away_win_1s": 2.25
+            },
+            "paddypower": {
+                "home_win_1s": 1.5714285,
+                "away_win_1s": 2.25
+            },
+            "bet365": {
+                "home_win_1s": 1.571,
+                "away_win_1s": 2.25
+            },
+            "10bet": {
+                "home_win_1s": 1.571,
+                "away_win_1s": 2.3
+            }
+        }
+    },
+    {
+        "id": "3561710995",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Christopher Eubanks/Ben Shelton",
+        "away_name": "Yannick Hanfmann/Dominik Koepfer",
+        "name": "Christopher Eubanks/Ben Shelton v Yannick Hanfmann/Dominik Koepfer",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "christopher eubanks/ben shelton-v-yannick hanfmann/dominik koepfer",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/hanfmann-koepfer-v-eubanks-shelton/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497830,
+        "source": "oddschecker",
+        "odds": {
+            "boylesports": {
+                "home_win_1s": 1.67,
+                "away_win_1s": 2.1
+            },
+            "betvictor": {
+                "home_win_1s": 1.67,
+                "away_win_1s": 2.1
+            },
+            "bet365": {
+                "home_win_1s": 1.666,
+                "away_win_1s": 2.1
+            },
+            "vbet": {
+                "home_win_1s": 1.66,
+                "away_win_1s": 2.08
+            },
+            "10bet": {
+                "home_win_1s": 1.65,
+                "away_win_1s": 2.2
+            },
+            "betfairsportsbook": {
+                "home_win_1s": 1.6153846,
+                "away_win_1s": 2.2
+            },
+            "paddypower": {
+                "home_win_1s": 1.6153846,
+                "away_win_1s": 2.2
+            },
+            "skybet": {
+                "home_win_1s": 1.6153846,
+                "away_win_1s": 2.2
+            },
+            "williamhill": {
+                "home_win_1s": 1.6
+            },
+            "livescorebet": {
+                "home_win_1s": 1.57,
+                "away_win_1s": 2.15
+            }
+        }
+    },
+    {
+        "id": "3561714203",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Koolhof/Mektic",
+        "away_name": "Doumbia/Reboul",
+        "name": "Koolhof/Mektic v Doumbia/Reboul",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "koolhof/mektic-v-doumbia/reboul",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/koolhof-mektic-v-doumbia-reboul/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497831,
+        "source": "oddschecker",
+        "odds": {
+            "betvictor": {
+                "home_win_1s": 1.54,
+                "away_win_1s": 2.38
+            },
+            "betfairsportsbook": {
+                "home_win_1s": 1.5333333,
+                "away_win_1s": 2.375
+            },
+            "paddypower": {
+                "home_win_1s": 1.5333333,
+                "away_win_1s": 2.375
+            },
+            "skybet": {
+                "home_win_1s": 1.5333333,
+                "away_win_1s": 2.375
+            },
+            "bet365": {
+                "home_win_1s": 1.533,
+                "away_win_1s": 2.375
+            },
+            "10bet": {
+                "home_win_1s": 1.533,
+                "away_win_1s": 2.4
+            },
+            "livescorebet": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.3
+            },
+            "betfair": {
+                "away_win_1s": 1.1
+            }
+        }
+    },
+    {
+        "id": "3561711416",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Cacic/Molchanov",
+        "away_name": "Mclachlan/Yoshihito Nishioka",
+        "name": "Cacic/Molchanov v Mclachlan/Yoshihito Nishioka",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "cacic/molchanov-v-mclachlan/yoshihito nishioka",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/mclachlan-nishioka-v-cacic-molchanov/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497831,
+        "source": "oddschecker",
+        "odds": {
+            "10bet": {
+                "home_win": 1.75,
+                "away_win": 2
+            },
+            "betvictor": {
+                "home_win": 1.75,
+                "away_win": 2.1
+            },
+            "betfair": {
+                "home_win": 1.74,
+                "away_win": 1.92
+            },
+            "betfairsportsbook": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "paddypower": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "skybet": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "bet365": {
+                "home_win": 1.666,
+                "away_win": 2.1
+            }
+        }
+    },
+    {
+        "id": "3561711026",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Mies/Smith",
+        "away_name": "Thanasi Kokkinakis/Alexei Popyrin",
+        "name": "Mies/Smith v Thanasi Kokkinakis/Alexei Popyrin",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "mies/smith-v-thanasi kokkinakis/alexei popyrin",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/mies-smith-v-kokkinakis-popyrin/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497832,
+        "source": "oddschecker",
+        "odds": {
+            "betfairsportsbook": {
+                "home_win": 1.7272727,
+                "away_win": 2.15
+            },
+            "betfair": {
+                "home_win": 1.67,
+                "away_win": 1.8
+            },
+            "paddypower": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "skybet": {
+                "home_win": 1.6666666,
+                "away_win": 2.1
+            },
+            "bet365": {
+                "home_win": 1.666,
+                "away_win": 2.1
+            },
+            "10bet": {
+                "home_win": 1.666,
+                "away_win": 2.15
+            }
+        }
+    },
+    {
+        "id": "3561754281",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Alex Michelsen",
+        "away_name": "Jiri Lehecka",
+        "name": "Alex Michelsen v Jiri Lehecka",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "alex michelsen-v-jiri lehecka",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/alex-michelsen-v-jiri-lehecka/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497851,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "away_win": 1.33,
+                "home_win": 3.79
+            },
+            "starsports": {
+                "away_win": 1.33,
+                "home_win": 3.75
+            },
+            "matchbook": {
+                "away_win": 1.32,
+                "home_win": 3.79
+            },
+            "spreadex": {
+                "away_win": 1.3,
+                "home_win": 3.5
+            },
+            "betway": {
+                "away_win": 1.3,
+                "home_win": 3.5
+            },
+            "williamhill": {
+                "away_win": 1.3,
+                "home_win": 3.5
+            },
+            "boylesports": {
+                "away_win": 1.29,
+                "home_win": 3.6
+            },
+            "betuk": {
+                "away_win": 1.29,
+                "home_win": 3.65
+            },
+            "betfred": {
+                "away_win": 1.29,
+                "home_win": 3.5
+            },
+            "betmgmuk": {
+                "away_win": 1.29,
+                "home_win": 3.65
+            },
+            "sportingindex": {
+                "away_win": 1.29,
+                "home_win": 3.6
+            },
+            "unibet": {
+                "away_win": 1.29,
+                "home_win": 3.65
+            },
+            "betvictor": {
+                "away_win": 1.29,
+                "home_win": 3.75
+            },
+            "888sport": {
+                "away_win": 1.286,
+                "home_win": 3.5
+            },
+            "10bet": {
+                "away_win": 1.285,
+                "home_win": 3.5
+            },
+            "coral": {
+                "away_win": 1.28,
+                "home_win": 3.6
+            },
+            "ladbrokes": {
+                "away_win": 1.28,
+                "home_win": 3.6
+            },
+            "vbet": {
+                "away_win": 1.28,
+                "home_win": 3.5
+            },
+            "livescorebet": {
+                "away_win": 1.26,
+                "home_win": 3.75
+            },
+            "bet365": {
+                "away_win": 1.25,
+                "home_win": 4
+            },
+            "betfairsportsbook": {
+                "away_win": 1.25,
+                "home_win": 3.75
+            },
+            "betgoodwin": {
+                "away_win": 1.25,
+                "home_win": 3.75
+            },
+            "midnite": {
+                "away_win": 1.25,
+                "home_win": 3.4
+            },
+            "paddypower": {
+                "away_win": 1.25,
+                "home_win": 3.75
+            },
+            "quinnbet": {
+                "away_win": 1.25,
+                "home_win": 3.75
+            },
+            "skybet": {
+                "away_win": 1.25,
+                "home_win": 3.75
+            }
+        }
+    },
+    {
+        "id": "3561763128",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Alexander Zverev",
+        "away_name": "Lukas Klein",
+        "name": "Alexander Zverev v Lukas Klein",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "alexander zverev-v-lukas klein",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/alexander-zverev-v-lukas-klein/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497852,
+        "source": "oddschecker",
+        "odds": {
+            "livescorebet": {
+                "under_12_5_1s_total_games": 1.26,
+                "over_8_5_1s_total_games": 1.25,
+                "under_10_5_1s_total_games": 1.37,
+                "over_10_5_1s_total_games": 2.87,
+                "under_8_5_1s_total_games": 3.6,
+                "over_12_5_1s_total_games": 3.5
+            },
+            "betfairsportsbook": {
+                "under_12_5_1s_total_games": 1.2222222,
+                "over_8_5_1s_total_games": 1.2,
+                "under_10_5_1s_total_games": 1.3333334,
+                "over_10_5_1s_total_games": 3,
+                "under_8_5_1s_total_games": 4,
+                "over_12_5_1s_total_games": 3.75
+            },
+            "paddypower": {
+                "under_12_5_1s_total_games": 1.2222222,
+                "over_8_5_1s_total_games": 1.2,
+                "under_10_5_1s_total_games": 1.3333334,
+                "over_10_5_1s_total_games": 3,
+                "under_8_5_1s_total_games": 4.2,
+                "over_12_5_1s_total_games": 3.75
+            },
+            "coral": {
+                "under_12_5_1s_total_games": 1.22,
+                "over_8_5_1s_total_games": 1.25,
+                "under_10_5_1s_total_games": 1.35,
+                "over_10_5_1s_total_games": 3.1,
+                "under_8_5_1s_total_games": 3.6,
+                "over_12_5_1s_total_games": 4
+            },
+            "ladbrokes": {
+                "under_12_5_1s_total_games": 1.22,
+                "over_8_5_1s_total_games": 1.25,
+                "under_10_5_1s_total_games": 1.35,
+                "over_10_5_1s_total_games": 3.1,
+                "under_8_5_1s_total_games": 3.6,
+                "over_12_5_1s_total_games": 4
+            },
+            "vbet": {
+                "under_12_5_1s_total_games": 1.2,
+                "over_8_5_1s_total_games": 1.26,
+                "under_10_5_1s_total_games": 1.3,
+                "over_10_5_1s_total_games": 3.35,
+                "under_8_5_1s_total_games": 3.7,
+                "over_12_5_1s_total_games": 4.4
+            },
+            "betuk": {
+                "under_12_5_1s_total_games": 1.19,
+                "over_8_5_1s_total_games": 1.24,
+                "under_10_5_1s_total_games": 1.32,
+                "over_10_5_1s_total_games": 3.25,
+                "under_8_5_1s_total_games": 3.8,
+                "over_12_5_1s_total_games": 4.3
+            },
+            "betmgmuk": {
+                "under_12_5_1s_total_games": 1.19,
+                "over_8_5_1s_total_games": 1.24,
+                "under_10_5_1s_total_games": 1.32,
+                "over_10_5_1s_total_games": 3.25,
+                "under_8_5_1s_total_games": 3.8,
+                "over_12_5_1s_total_games": 4.3
+            },
+            "unibet": {
+                "under_12_5_1s_total_games": 1.19,
+                "over_8_5_1s_total_games": 1.24,
+                "under_10_5_1s_total_games": 1.32,
+                "over_10_5_1s_total_games": 3.25,
+                "under_8_5_1s_total_games": 3.8,
+                "over_12_5_1s_total_games": 4.3
+            },
+            "bet365": {
+                "under_12_5_1s_total_games": 1.181,
+                "over_8_5_1s_total_games": 1.285,
+                "under_10_5_1s_total_games": 1.285,
+                "over_10_5_1s_total_games": 3.5,
+                "under_8_5_1s_total_games": 3.5,
+                "over_12_5_1s_total_games": 4.5
+            },
+            "midnite": {
+                "under_12_5_1s_total_games": 1.18,
+                "over_8_5_1s_total_games": 1.22,
+                "under_10_5_1s_total_games": 1.3,
+                "over_10_5_1s_total_games": 3.05,
+                "under_8_5_1s_total_games": 3.6,
+                "over_12_5_1s_total_games": 4
+            }
+        }
+    },
+    {
+        "id": "3561754283",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Cameron Norrie",
+        "away_name": "Giulio Zeppieri",
+        "name": "Cameron Norrie v Giulio Zeppieri",
+        "start_time": "2024-01-18 00:00:00",
+        "urlMap": "cameron norrie-v-giulio zeppieri",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/cameron-norrie-v-giulio-zeppieri/winner",
+        "is_live": false,
+        "timestamp": 1705536000.0,
+        "version": 1705497853,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "home_win": 1.33,
+                "away_win": 3.65
+            },
+            "matchbook": {
+                "home_win": 1.33,
+                "away_win": 3.69
+            },
+            "betuk": {
+                "home_win": 1.3,
+                "away_win": 3.55
+            },
+            "betfairsportsbook": {
+                "home_win": 1.3,
+                "away_win": 3.4
+            },
+            "betmgmuk": {
+                "home_win": 1.3,
+                "away_win": 3.55
+            },
+            "starsports": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "unibet": {
+                "home_win": 1.3,
+                "away_win": 3.55
+            },
+            "betvictor": {
+                "home_win": 1.3,
+                "away_win": 3.6
+            },
+            "betway": {
+                "home_win": 1.3,
+                "away_win": 3.5
+            },
+            "boylesports": {
+                "home_win": 1.29,
+                "away_win": 3.6
+            },
+            "betfred": {
+                "home_win": 1.29,
+                "away_win": 3.5
+            },
+            "betgoodwin": {
+                "home_win": 1.29,
+                "away_win": 3.6
+            },
+            "quinnbet": {
+                "home_win": 1.29,
+                "away_win": 3.6
+            },
+            "sportingindex": {
+                "home_win": 1.29,
+                "away_win": 3.6
+            },
+            "spreadex": {
+                "home_win": 1.29,
+                "away_win": 3.6
+            },
+            "vbet": {
+                "home_win": 1.29,
+                "away_win": 3.45
+            },
+            "williamhill": {
+                "home_win": 1.29,
+                "away_win": 3.6
+            },
+            "888sport": {
+                "home_win": 1.286,
+                "away_win": 3.5
+            },
+            "paddypower": {
+                "home_win": 1.2857143,
+                "away_win": 3.6
+            },
+            "skybet": {
+                "home_win": 1.2857143,
+                "away_win": 3.75
+            },
+            "bet365": {
+                "home_win": 1.285,
+                "away_win": 3.75
+            },
+            "10bet": {
+                "home_win": 1.285,
+                "away_win": 3.5
+            },
+            "coral": {
+                "home_win": 1.28,
+                "away_win": 3.6
+            },
+            "ladbrokes": {
+                "home_win": 1.28,
+                "away_win": 3.6
+            },
+            "livescorebet": {
+                "home_win": 1.28,
+                "away_win": 3.7
+            },
+            "midnite": {
+                "home_win": 1.25,
+                "away_win": 3.4
+            }
+        }
+    },
+    {
+        "id": "3561754282",
+        "match_time": "01:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Max Purcell",
+        "away_name": "Casper Ruud",
+        "name": "Max Purcell v Casper Ruud",
+        "start_time": "2024-01-18 01:00:00",
+        "urlMap": "max purcell-v-casper ruud",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/max-purcell-v-casper-ruud/winner",
+        "is_live": false,
+        "timestamp": 1705539600.0,
+        "version": 1705497854,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "away_under_1_5_sets_handicap": 1.48,
+                "home_over_1_5_sets_handicap": 2.6
+            },
+            "ladbrokes": {
+                "away_under_1_5_sets_handicap": 1.48,
+                "home_over_1_5_sets_handicap": 2.6
+            },
+            "vbet": {
+                "away_under_1_5_sets_handicap": 1.43,
+                "home_over_2_5_sets_handicap": 1.62,
+                "away_under_2_5_sets_handicap": 2.25,
+                "home_over_1_5_sets_handicap": 2.7
+            },
+            "betfred": {
+                "away_under_1_5_sets_handicap": 1.4,
+                "away_under_2_5_sets_handicap": 2.2
+            },
+            "midnite": {
+                "away_under_1_5_sets_handicap": 1.4,
+                "home_over_2_5_sets_handicap": 1.57,
+                "away_under_2_5_sets_handicap": 2.2,
+                "home_over_1_5_sets_handicap": 2.63
+            },
+            "10bet": {
+                "away_under_1_5_sets_handicap": 1.4,
+                "home_over_2_5_sets_handicap": 1.6,
+                "away_under_2_5_sets_handicap": 2.25,
+                "home_over_1_5_sets_handicap": 2.875
+            },
+            "starsports": {
+                "away_under_1_5_sets_handicap": 1.4,
+                "home_over_2_5_sets_handicap": 1.72,
+                "away_under_2_5_sets_handicap": 2.1,
+                "home_over_1_5_sets_handicap": 3
+            },
+            "betway": {
+                "away_under_1_5_sets_handicap": 1.4,
+                "home_over_2_5_sets_handicap": 1.55,
+                "away_under_2_5_sets_handicap": 2.3,
+                "home_over_1_5_sets_handicap": 2.75
+            },
+            "betuk": {
+                "away_under_1_5_sets_handicap": 1.38,
+                "home_over_2_5_sets_handicap": 1.62,
+                "away_under_2_5_sets_handicap": 2.28,
+                "home_over_1_5_sets_handicap": 3
+            },
+            "betmgmuk": {
+                "away_under_1_5_sets_handicap": 1.38,
+                "home_over_2_5_sets_handicap": 1.62,
+                "away_under_2_5_sets_handicap": 2.28,
+                "home_over_1_5_sets_handicap": 3
+            },
+            "unibet": {
+                "away_under_1_5_sets_handicap": 1.38,
+                "home_over_2_5_sets_handicap": 1.62,
+                "away_under_2_5_sets_handicap": 2.28,
+                "home_over_1_5_sets_handicap": 3
+            },
+            "livescorebet": {
+                "away_under_1_5_sets_handicap": 1.31,
+                "home_over_2_5_sets_handicap": 1.6,
+                "away_under_2_5_sets_handicap": 2.4,
+                "home_over_1_5_sets_handicap": 2.75
+            },
+            "williamhill": {
+                "home_over_2_5_sets_handicap": 1.73,
+                "away_under_2_5_sets_handicap": 2
+            },
+            "betgoodwin": {
+                "home_over_2_5_sets_handicap": 1.67,
+                "away_under_2_5_sets_handicap": 2.1
+            },
+            "quinnbet": {
+                "home_over_2_5_sets_handicap": 1.67,
+                "away_under_2_5_sets_handicap": 2.1
+            },
+            "skybet": {
+                "home_over_2_5_sets_handicap": 1.6153846,
+                "away_under_2_5_sets_handicap": 2.2
+            },
+            "888sport": {
+                "home_over_2_5_sets_handicap": 1.615,
+                "away_under_2_5_sets_handicap": 2.25
+            },
+            "betfairsportsbook": {
+                "home_over_2_5_sets_handicap": 1.5714285,
+                "away_under_2_5_sets_handicap": 2.25
+            },
+            "paddypower": {
+                "home_over_2_5_sets_handicap": 1.5714285,
+                "away_under_2_5_sets_handicap": 2.25
+            }
+        }
+    },
+    {
+        "id": "3561763130",
+        "match_time": "01:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Tommy Paul",
+        "away_name": "Jack Draper",
+        "name": "Tommy Paul v Jack Draper",
+        "start_time": "2024-01-18 01:30:00",
+        "urlMap": "tommy paul-v-jack draper",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/tommy-paul-v-jack-draper/winner",
+        "is_live": false,
+        "timestamp": 1705541400.0,
+        "version": 1705497855,
+        "source": "oddschecker",
+        "odds": {
+            "betway": {
+                "odd_1s_total_games": 1.85,
+                "even_1s_total_games": 1.85
+            },
+            "vbet": {
+                "odd_1s_total_games": 1.79,
+                "even_1s_total_games": 1.91
+            }
+        }
+    },
+    {
+        "id": "3561739290",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Miomir Kecmanovic",
+        "away_name": "Jan-Lennard Struff",
+        "name": "Miomir Kecmanovic v Jan-Lennard Struff",
+        "start_time": "2024-01-18 02:00:00",
+        "urlMap": "miomir kecmanovic-v-jan-lennard struff",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/miomir-kecmanovic-v-jan-lennard-struff/winner",
+        "is_live": false,
+        "timestamp": 1705543200.0,
+        "version": 1705497856,
+        "source": "oddschecker",
+        "odds": {
+            "betfairsportsbook": {
+                "no_both_players_win_a_set": 2.625
+            },
+            "paddypower": {
+                "no_both_players_win_a_set": 2.625
+            },
+            "skybet": {
+                "no_both_players_win_a_set": 2.625
+            }
+        }
+    },
+    {
+        "id": "3561732226",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Nuno Borges",
+        "away_name": "Alejandro Davidovich Fokina",
+        "name": "Nuno Borges v Alejandro Davidovich Fokina",
+        "start_time": "2024-01-18 02:00:00",
+        "urlMap": "nuno borges-v-alejandro davidovich fokina",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/nuno-borges-v-alejandro-davidovich-fokina/winner",
+        "is_live": false,
+        "timestamp": 1705543200.0,
+        "version": 1705497856,
+        "source": "oddschecker",
+        "odds": {
+            "vbet": {
+                "odd_1s_total_games": 1.84,
+                "even_1s_total_games": 1.86
+            },
+            "betway": {
+                "odd_1s_total_games": 1.8,
+                "even_1s_total_games": 1.9
+            }
+        }
+    },
+    {
+        "id": "3561766381",
+        "match_time": "02:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Lorenzo Sonego",
+        "away_name": "Carlos Alcaraz",
+        "name": "Lorenzo Sonego v Carlos Alcaraz",
+        "start_time": "2024-01-18 02:30:00",
+        "urlMap": "lorenzo sonego-v-carlos alcaraz",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/lorenzo-sonego-v-carlos-alcaraz/winner",
+        "is_live": false,
+        "timestamp": 1705545000.0,
+        "version": 1705497857,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "away_win_1s": 1.18,
+                "home_win_1s": 4.8
+            },
+            "ladbrokes": {
+                "away_win_1s": 1.18,
+                "home_win_1s": 4.8
+            },
+            "vbet": {
+                "away_win_1s": 1.17,
+                "home_win_1s": 4.9
+            },
+            "betuk": {
+                "away_win_1s": 1.16,
+                "home_win_1s": 5.5
+            },
+            "betmgmuk": {
+                "away_win_1s": 1.16,
+                "home_win_1s": 5.5
+            },
+            "unibet": {
+                "away_win_1s": 1.16,
+                "home_win_1s": 5.5
+            },
+            "betvictor": {
+                "away_win_1s": 1.15,
+                "home_win_1s": 4.75
+            },
+            "888sport": {
+                "away_win_1s": 1.143,
+                "home_win_1s": 5.25
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.1428572,
+                "home_win_1s": 5
+            },
+            "paddypower": {
+                "away_win_1s": 1.1428572,
+                "home_win_1s": 5
+            },
+            "skybet": {
+                "away_win_1s": 1.1428572,
+                "home_win_1s": 5
+            },
+            "bet365": {
+                "away_win_1s": 1.142,
+                "home_win_1s": 5.5
+            },
+            "10bet": {
+                "away_win_1s": 1.142,
+                "home_win_1s": 5.5
+            },
+            "boylesports": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 5
+            },
+            "betfred": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 5.5
+            },
+            "midnite": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 4.8
+            },
+            "starsports": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 5
+            },
+            "williamhill": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 5
+            },
+            "betgoodwin": {
+                "away_win_1s": 1.13,
+                "home_win_1s": 5.5
+            },
+            "livescorebet": {
+                "away_win_1s": 1.13,
+                "home_win_1s": 5
+            },
+            "quinnbet": {
+                "away_win_1s": 1.13,
+                "home_win_1s": 5.5
+            },
+            "betway": {
+                "away_win_1s": 1.12,
+                "home_win_1s": 5.25
+            },
+            "betfair": {
+                "away_win_1s": 1.05,
+                "home_win_1s": 3.4
+            }
+        }
+    },
+    {
+        "id": "3561732221",
+        "match_time": "02:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Ugo Humbert",
+        "away_name": "Zhizhen Zhang",
+        "name": "Ugo Humbert v Zhizhen Zhang",
+        "start_time": "2024-01-18 02:30:00",
+        "urlMap": "ugo humbert-v-zhizhen zhang",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/ugo-humbert-v-zhizhen-zhang/winner",
+        "is_live": false,
+        "timestamp": 1705545000.0,
+        "version": 1705497859,
+        "source": "oddschecker",
+        "odds": {
+            "skybet": {
+                "away_over_8_5_handicap": 1.1111112,
+                "away_over_6_5_handicap": 1.3636364,
+                "home_under_0_5_handicap": 1.4,
+                "away_over_5_5_handicap": 1.5333333,
+                "home_under_2_5_handicap": 1.6153846,
+                "away_over_4_5_handicap": 1.7272727,
+                "home_under_3_5_handicap": 1.7272727,
+                "home_under_4_5_handicap": 2,
+                "away_over_3_5_handicap": 2,
+                "away_over_2_5_handicap": 2.2,
+                "home_under_5_5_handicap": 2.375,
+                "away_over_0_5_handicap": 2.75,
+                "home_under_6_5_handicap": 3,
+                "home_under_8_5_handicap": 6
+            },
+            "betuk": {
+                "home_over_1_5_handicap": 1.28,
+                "away_over_6_5_handicap": 1.36,
+                "home_under_3_5_handicap": 1.79,
+                "away_over_3_5_handicap": 2,
+                "home_under_6_5_handicap": 3,
+                "away_under_1_5_handicap": 3.45
+            },
+            "betmgmuk": {
+                "home_over_1_5_handicap": 1.28,
+                "away_over_6_5_handicap": 1.36,
+                "home_under_3_5_handicap": 1.79,
+                "away_over_3_5_handicap": 2,
+                "home_under_6_5_handicap": 3,
+                "away_under_1_5_handicap": 3.45
+            },
+            "unibet": {
+                "home_over_1_5_handicap": 1.28,
+                "away_over_6_5_handicap": 1.36,
+                "home_under_3_5_handicap": 1.79,
+                "away_over_3_5_handicap": 2,
+                "home_under_6_5_handicap": 3,
+                "away_under_1_5_handicap": 3.45
+            },
+            "midnite": {
+                "away_over_6_5_handicap": 1.33,
+                "home_under_1_5_handicap": 1.44,
+                "away_over_5_5_handicap": 1.5,
+                "home_under_2_5_handicap": 1.57,
+                "away_over_4_5_handicap": 1.75,
+                "home_under_3_5_handicap": 1.75,
+                "home_under_4_5_handicap": 1.9,
+                "away_over_3_5_handicap": 1.9,
+                "away_over_2_5_handicap": 2.2,
+                "home_under_5_5_handicap": 2.3,
+                "away_over_1_5_handicap": 2.45,
+                "home_under_6_5_handicap": 2.9
+            },
+            "10bet": {
+                "away_over_6_5_handicap": 1.3,
+                "home_under_1_5_handicap": 1.48,
+                "away_over_5_5_handicap": 1.533,
+                "home_under_2_5_handicap": 1.6,
+                "away_over_4_5_handicap": 1.8,
+                "home_under_3_5_handicap": 1.8,
+                "home_under_4_5_handicap": 1.909,
+                "away_over_3_5_handicap": 1.909,
+                "away_over_2_5_handicap": 2.2,
+                "home_under_5_5_handicap": 2.375,
+                "away_over_1_5_handicap": 2.45,
+                "home_under_6_5_handicap": 3.2
+            },
+            "betway": {
+                "home_under_1_5_handicap": 1.45,
+                "away_over_5_5_handicap": 1.5,
+                "home_under_2_5_handicap": 1.6,
+                "away_over_4_5_handicap": 1.73,
+                "home_under_3_5_handicap": 1.73,
+                "home_under_4_5_handicap": 2,
+                "away_over_3_5_handicap": 2,
+                "away_over_2_5_handicap": 2.2,
+                "home_under_5_5_handicap": 2.4,
+                "away_over_1_5_handicap": 2.5
+            },
+            "vbet": {
+                "away_over_5_5_handicap": 1.58,
+                "home_under_2_5_handicap": 1.6,
+                "away_over_4_5_handicap": 1.82,
+                "home_under_3_5_handicap": 1.76,
+                "home_under_4_5_handicap": 2,
+                "away_over_3_5_handicap": 2.06,
+                "away_over_2_5_handicap": 2.27,
+                "home_under_5_5_handicap": 2.33
+            },
+            "betfred": {
+                "home_over_2_5_handicap": 1.62,
+                "home_over_3_5_handicap": 1.8,
+                "away_over_4_5_handicap": 1.8,
+                "home_over_4_5_handicap": 1.91,
+                "away_over_3_5_handicap": 1.91,
+                "away_over_2_5_handicap": 2.2
+            },
+            "matchbook": {
+                "away_over_4_5_handicap": 1.84,
+                "home_under_3_5_handicap": 1.77,
+                "home_under_4_5_handicap": 2,
+                "away_over_3_5_handicap": 2.1
+            },
+            "livescorebet": {
+                "away_over_4_5_handicap": 1.8,
+                "home_under_4_5_handicap": 1.95
+            },
+            "starsports": {
+                "away_over_4_5_handicap": 1.8,
+                "home_under_4_5_handicap": 1.95
+            },
+            "williamhill": {
+                "away_over_4_5_handicap": 1.8,
+                "home_under_4_5_handicap": 1.91
+            },
+            "coral": {
+                "away_over_4_5_handicap": 1.75,
+                "home_under_4_5_handicap": 1.95
+            },
+            "ladbrokes": {
+                "away_over_4_5_handicap": 1.75,
+                "home_under_4_5_handicap": 1.95
+            },
+            "sportingindex": {
+                "away_over_4_5_handicap": 1.73,
+                "home_under_4_5_handicap": 2
+            },
+            "spreadex": {
+                "away_over_4_5_handicap": 1.73,
+                "home_under_4_5_handicap": 2
+            },
+            "betgoodwin": {
+                "home_under_3_5_handicap": 1.85,
+                "away_over_3_5_handicap": 1.85
+            },
+            "quinnbet": {
+                "home_under_3_5_handicap": 1.85,
+                "away_over_3_5_handicap": 1.85
+            },
+            "bet365": {
+                "home_under_3_5_handicap": 1.833,
+                "away_over_3_5_handicap": 1.833
+            },
+            "888sport": {
+                "home_under_3_5_handicap": 1.833,
+                "away_over_3_5_handicap": 1.95
+            },
+            "boylesports": {
+                "home_under_3_5_handicap": 1.8,
+                "away_over_3_5_handicap": 1.91
+            },
+            "betvictor": {
+                "home_under_3_5_handicap": 1.8,
+                "away_over_3_5_handicap": 1.95
+            }
+        }
+    },
+    {
+        "id": "3561754284",
+        "match_time": "03:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Sumit Nagal",
+        "away_name": "Juncheng Shang",
+        "name": "Sumit Nagal v Juncheng Shang",
+        "start_time": "2024-01-18 03:00:00",
+        "urlMap": "sumit nagal-v-juncheng shang",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/sumit-nagal-v-juncheng-shang/winner",
+        "is_live": false,
+        "timestamp": 1705546800.0,
+        "version": 1705497859,
+        "source": "oddschecker",
+        "odds": {
+            "skybet": {
+                "under_4_5_total_sets": 1.3333334,
+                "over_3_5_total_sets": 1.5,
+                "under_3_5_total_sets": 2.5,
+                "over_4_5_total_sets": 3.25
+            },
+            "betuk": {
+                "under_4_5_total_sets": 1.3,
+                "over_3_5_total_sets": 1.56,
+                "under_3_5_total_sets": 2.4,
+                "over_4_5_total_sets": 3.5
+            },
+            "betfairsportsbook": {
+                "under_4_5_total_sets": 1.3,
+                "over_3_5_total_sets": 1.5,
+                "under_3_5_total_sets": 2.5,
+                "over_4_5_total_sets": 3.2
+            },
+            "betmgmuk": {
+                "under_4_5_total_sets": 1.3,
+                "over_3_5_total_sets": 1.56,
+                "under_3_5_total_sets": 2.4,
+                "over_4_5_total_sets": 3.5
+            },
+            "paddypower": {
+                "under_4_5_total_sets": 1.3,
+                "over_3_5_total_sets": 1.5,
+                "under_3_5_total_sets": 2.5,
+                "over_4_5_total_sets": 3.2
+            },
+            "unibet": {
+                "under_4_5_total_sets": 1.3,
+                "over_3_5_total_sets": 1.56,
+                "under_3_5_total_sets": 2.4,
+                "over_4_5_total_sets": 3.5
+            },
+            "vbet": {
+                "under_4_5_total_sets": 1.3,
+                "over_3_5_total_sets": 1.57,
+                "under_3_5_total_sets": 2.35,
+                "over_4_5_total_sets": 3.35
+            },
+            "starsports": {
+                "under_4_5_total_sets": 1.29,
+                "over_3_5_total_sets": 1.61,
+                "under_3_5_total_sets": 2.25,
+                "over_4_5_total_sets": 3.75
+            },
+            "betway": {
+                "under_4_5_total_sets": 1.25,
+                "over_3_5_total_sets": 1.55,
+                "under_3_5_total_sets": 2.2,
+                "over_4_5_total_sets": 3.5
+            },
+            "boylesports": {
+                "over_3_5_total_sets": 1.57,
+                "under_3_5_total_sets": 2.25
+            }
+        }
+    },
+    {
+        "id": "3561754279",
+        "match_time": "03:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Arthur Fils",
+        "away_name": "Tallon Griekspoor",
+        "name": "Arthur Fils v Tallon Griekspoor",
+        "start_time": "2024-01-18 03:30:00",
+        "urlMap": "arthur fils-v-tallon griekspoor",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/arthur-fils-v-tallon-griekspoor/winner",
+        "is_live": false,
+        "timestamp": 1705548600.0,
+        "version": 1705497860,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "home_win": 1.71,
+                "away_win": 2.35
+            },
+            "matchbook": {
+                "home_win": 1.71,
+                "away_win": 2.35
+            },
+            "betway": {
+                "home_win": 1.65,
+                "away_win": 2.25
+            },
+            "vbet": {
+                "home_win": 1.63,
+                "away_win": 2.23
+            },
+            "boylesports": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "betuk": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "betfred": {
+                "home_win": 1.62,
+                "away_win": 2.25
+            },
+            "betgoodwin": {
+                "home_win": 1.62,
+                "away_win": 2.25
+            },
+            "betmgmuk": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "quinnbet": {
+                "home_win": 1.62,
+                "away_win": 2.25
+            },
+            "sportingindex": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "spreadex": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "unibet": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "betvictor": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "williamhill": {
+                "home_win": 1.62,
+                "away_win": 2.3
+            },
+            "betfairsportsbook": {
+                "home_win": 1.6153846,
+                "away_win": 2.25
+            },
+            "bet365": {
+                "home_win": 1.615,
+                "away_win": 2.3
+            },
+            "888sport": {
+                "home_win": 1.615,
+                "away_win": 2.25
+            },
+            "coral": {
+                "home_win": 1.61,
+                "away_win": 2.25
+            },
+            "ladbrokes": {
+                "home_win": 1.61,
+                "away_win": 2.25
+            },
+            "starsports": {
+                "home_win": 1.61,
+                "away_win": 2.25
+            },
+            "livescorebet": {
+                "home_win": 1.6,
+                "away_win": 2.37
+            },
+            "paddypower": {
+                "home_win": 1.5714285,
+                "away_win": 2.3
+            },
+            "skybet": {
+                "home_win": 1.5714285,
+                "away_win": 2.2
+            },
+            "10bet": {
+                "home_win": 1.571,
+                "away_win": 2.3
+            },
+            "midnite": {
+                "home_win": 1.57,
+                "away_win": 2.2
+            }
+        }
+    },
+    {
+        "id": "3561739292",
+        "match_time": "05:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Felix Auger Aliassime",
+        "away_name": "Hugo Grenier",
+        "name": "Felix Auger Aliassime v Hugo Grenier",
+        "start_time": "2024-01-18 05:00:00",
+        "urlMap": "felix auger aliassime-v-hugo grenier",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/felix-auger-aliassime-v-hugo-grenier/winner",
+        "is_live": false,
+        "timestamp": 1705554000.0,
+        "version": 1705497861,
+        "source": "oddschecker",
+        "odds": {
+            "betway": {
+                "odd_1s_total_games": 1.8,
+                "even_1s_total_games": 1.9
+            },
+            "vbet": {
+                "odd_1s_total_games": 1.77,
+                "even_1s_total_games": 1.93
+            }
+        }
+    },
+    {
+        "id": "3561754278",
+        "match_time": "05:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Grigor Dimitrov",
+        "away_name": "Thanasi Kokkinakis",
+        "name": "Grigor Dimitrov v Thanasi Kokkinakis",
+        "start_time": "2024-01-18 05:00:00",
+        "urlMap": "grigor dimitrov-v-thanasi kokkinakis",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/grigor-dimitrov-v-thanasi-kokkinakis/winner",
+        "is_live": false,
+        "timestamp": 1705554000.0,
+        "version": 1705497862,
+        "source": "oddschecker",
+        "odds": {
+            "skybet": {
+                "away_over_10_5_handicap": 1.0625,
+                "home_under_2_5_handicap": 1.2222222,
+                "away_over_8_5_handicap": 1.25,
+                "away_over_7_5_handicap": 1.4444444,
+                "home_under_4_5_handicap": 1.4444444,
+                "away_over_6_5_handicap": 1.7272727,
+                "home_under_5_5_handicap": 1.6153846,
+                "home_under_6_5_handicap": 2,
+                "away_over_5_5_handicap": 2.1,
+                "away_over_4_5_handicap": 2.625,
+                "home_under_7_5_handicap": 2.625,
+                "home_under_8_5_handicap": 3.75,
+                "away_over_2_5_handicap": 4,
+                "home_under_10_5_handicap": 8
+            },
+            "betfairsportsbook": {
+                "away_over_10_5_handicap": 1.0555556,
+                "home_under_2_5_handicap": 1.2222222,
+                "away_over_8_5_handicap": 1.2222222,
+                "away_over_7_5_handicap": 1.4444444,
+                "home_under_4_5_handicap": 1.4,
+                "home_under_1_5_handicap": 1.6153846,
+                "away_over_6_5_handicap": 1.6666666,
+                "home_under_5_5_handicap": 1.6153846,
+                "home_under_6_5_handicap": 2.1,
+                "away_over_5_5_handicap": 2.2,
+                "away_over_1_5_handicap": 2.2,
+                "away_over_4_5_handicap": 2.75,
+                "home_under_7_5_handicap": 2.625,
+                "home_under_8_5_handicap": 3.75,
+                "away_over_2_5_handicap": 3.75,
+                "home_under_10_5_handicap": 8
+            },
+            "paddypower": {
+                "away_over_10_5_handicap": 1.0555556,
+                "home_under_2_5_handicap": 1.2222222,
+                "away_over_8_5_handicap": 1.2222222,
+                "away_over_7_5_handicap": 1.4444444,
+                "home_under_4_5_handicap": 1.4,
+                "home_under_1_5_handicap": 1.6153846,
+                "away_over_6_5_handicap": 1.6666666,
+                "home_under_5_5_handicap": 1.6153846,
+                "home_under_6_5_handicap": 2.1,
+                "away_over_5_5_handicap": 2.2,
+                "away_over_1_5_handicap": 2.2,
+                "away_over_4_5_handicap": 2.75,
+                "home_under_7_5_handicap": 2.625,
+                "home_under_8_5_handicap": 3.75,
+                "away_over_2_5_handicap": 3.75,
+                "home_under_10_5_handicap": 8
+            },
+            "betuk": {
+                "away_over_8_5_handicap": 1.26,
+                "home_under_3_5_handicap": 1.3,
+                "away_over_6_5_handicap": 1.76,
+                "home_under_6_5_handicap": 2.04,
+                "away_over_3_5_handicap": 3.35,
+                "home_under_8_5_handicap": 3.6
+            },
+            "betmgmuk": {
+                "away_over_8_5_handicap": 1.26,
+                "home_under_3_5_handicap": 1.3,
+                "away_over_6_5_handicap": 1.76,
+                "home_under_6_5_handicap": 2.04,
+                "away_over_3_5_handicap": 3.35,
+                "home_under_8_5_handicap": 3.6
+            },
+            "unibet": {
+                "away_over_8_5_handicap": 1.26,
+                "home_under_3_5_handicap": 1.3,
+                "away_over_6_5_handicap": 1.76,
+                "home_under_6_5_handicap": 2.04,
+                "away_over_3_5_handicap": 3.35,
+                "home_under_8_5_handicap": 3.6
+            },
+            "10bet": {
+                "away_over_8_5_handicap": 1.222,
+                "home_under_3_5_handicap": 1.3,
+                "away_over_7_5_handicap": 1.35,
+                "home_under_4_5_handicap": 1.48,
+                "away_over_6_5_handicap": 1.65,
+                "home_under_5_5_handicap": 1.727,
+                "home_under_6_5_handicap": 2.1,
+                "away_over_5_5_handicap": 2,
+                "away_over_4_5_handicap": 2.45,
+                "home_under_7_5_handicap": 2.95,
+                "away_over_3_5_handicap": 3.2,
+                "home_under_8_5_handicap": 3.7
+            },
+            "midnite": {
+                "away_over_8_5_handicap": 1.22,
+                "home_under_3_5_handicap": 1.3,
+                "away_over_7_5_handicap": 1.36,
+                "home_under_4_5_handicap": 1.44,
+                "away_over_6_5_handicap": 1.65,
+                "home_under_5_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2.05,
+                "away_over_5_5_handicap": 1.95,
+                "away_over_4_5_handicap": 2.45,
+                "home_under_7_5_handicap": 2.75,
+                "away_over_3_5_handicap": 3.05,
+                "home_under_8_5_handicap": 3.6
+            },
+            "betway": {
+                "home_under_3_5_handicap": 1.3,
+                "away_over_7_5_handicap": 1.36,
+                "home_under_4_5_handicap": 1.45,
+                "away_over_6_5_handicap": 1.6,
+                "home_under_5_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2.2,
+                "away_over_5_5_handicap": 2,
+                "away_over_4_5_handicap": 2.5,
+                "home_under_7_5_handicap": 2.9,
+                "away_over_3_5_handicap": 3.2
+            },
+            "vbet": {
+                "away_over_7_5_handicap": 1.38,
+                "home_under_4_5_handicap": 1.48,
+                "away_over_6_5_handicap": 1.67,
+                "home_under_5_5_handicap": 1.74,
+                "home_under_6_5_handicap": 2.17,
+                "away_over_5_5_handicap": 2.08,
+                "away_over_4_5_handicap": 2.55,
+                "home_under_7_5_handicap": 2.9
+            },
+            "betfair": {
+                "away_over_7_5_handicap": 1.34,
+                "home_under_4_5_handicap": 1.5,
+                "home_under_5_5_handicap": 1.74,
+                "away_over_5_5_handicap": 2.06,
+                "away_over_4_5_handicap": 2.65
+            },
+            "betfred": {
+                "home_over_4_5_handicap": 1.5,
+                "home_over_5_5_handicap": 1.73,
+                "away_over_6_5_handicap": 1.67,
+                "home_over_6_5_handicap": 2.1,
+                "away_over_5_5_handicap": 2,
+                "away_over_4_5_handicap": 2.5
+            },
+            "boylesports": {
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2.05
+            },
+            "williamhill": {
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2
+            },
+            "matchbook": {
+                "away_over_6_5_handicap": 1.7,
+                "home_under_5_5_handicap": 1.75,
+                "home_under_6_5_handicap": 2.22,
+                "away_over_5_5_handicap": 2.12
+            },
+            "bet365": {
+                "home_under_5_5_handicap": 1.833,
+                "away_over_5_5_handicap": 1.833
+            },
+            "betgoodwin": {
+                "home_under_5_5_handicap": 1.83,
+                "away_over_5_5_handicap": 1.91
+            },
+            "quinnbet": {
+                "home_under_5_5_handicap": 1.83,
+                "away_over_5_5_handicap": 1.91
+            },
+            "betvictor": {
+                "home_under_5_5_handicap": 1.8,
+                "away_over_5_5_handicap": 1.95
+            },
+            "888sport": {
+                "home_under_5_5_handicap": 1.75,
+                "away_over_5_5_handicap": 2.05
+            },
+            "coral": {
+                "home_under_5_5_handicap": 1.73,
+                "away_over_5_5_handicap": 2
+            },
+            "ladbrokes": {
+                "home_under_5_5_handicap": 1.73,
+                "away_over_5_5_handicap": 2
+            },
+            "livescorebet": {
+                "home_under_5_5_handicap": 1.72,
+                "away_over_5_5_handicap": 2.05
+            },
+            "starsports": {
+                "home_under_5_5_handicap": 1.72,
+                "away_over_5_5_handicap": 2.1
+            },
+            "sportingindex": {
+                "home_under_5_5_handicap": 1.62,
+                "away_over_5_5_handicap": 2.2
+            },
+            "spreadex": {
+                "home_under_5_5_handicap": 1.62,
+                "away_over_5_5_handicap": 2.2
+            }
+        }
+    },
+    {
+        "id": "3561732227",
+        "match_time": "05:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Jakub Mensik",
+        "away_name": "Hubert Hurkacz",
+        "name": "Jakub Mensik v Hubert Hurkacz",
+        "start_time": "2024-01-18 05:00:00",
+        "urlMap": "jakub mensik-v-hubert hurkacz",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/jakub-mensik-v-hubert-hurkacz/winner",
+        "is_live": false,
+        "timestamp": 1705554000.0,
+        "version": 1705497863,
+        "source": "oddschecker",
+        "odds": {
+            "betuk": {
+                "over_35_5_total_games": 1.58,
+                "over_36_5_total_games": 1.65,
+                "under_41_5_total_games": 1.64,
+                "over_37_5_total_games": 1.72,
+                "under_40_5_total_games": 1.78,
+                "over_38_5_total_games": 1.79,
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.93,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2.02,
+                "under_37_5_total_games": 2.08,
+                "under_36_5_total_games": 2.2,
+                "over_41_5_total_games": 2.2,
+                "under_35_5_total_games": 2.32
+            },
+            "betmgmuk": {
+                "over_35_5_total_games": 1.58,
+                "over_36_5_total_games": 1.65,
+                "under_41_5_total_games": 1.64,
+                "over_37_5_total_games": 1.72,
+                "under_40_5_total_games": 1.78,
+                "over_38_5_total_games": 1.79,
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.93,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2.02,
+                "under_37_5_total_games": 2.08,
+                "under_36_5_total_games": 2.2,
+                "over_41_5_total_games": 2.2,
+                "under_35_5_total_games": 2.32
+            },
+            "unibet": {
+                "over_35_5_total_games": 1.58,
+                "over_36_5_total_games": 1.65,
+                "under_41_5_total_games": 1.64,
+                "over_37_5_total_games": 1.72,
+                "under_40_5_total_games": 1.78,
+                "over_38_5_total_games": 1.79,
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.93,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2.02,
+                "under_37_5_total_games": 2.08,
+                "under_36_5_total_games": 2.2,
+                "over_41_5_total_games": 2.2,
+                "under_35_5_total_games": 2.32
+            },
+            "10bet": {
+                "over_35_5_total_games": 1.571,
+                "over_36_5_total_games": 1.666,
+                "under_41_5_total_games": 1.6,
+                "over_37_5_total_games": 1.666,
+                "under_40_5_total_games": 1.75,
+                "over_38_5_total_games": 1.75,
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.85,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2,
+                "under_37_5_total_games": 2.15,
+                "under_36_5_total_games": 2.15,
+                "over_41_5_total_games": 2.25,
+                "under_35_5_total_games": 2.3
+            },
+            "midnite": {
+                "over_35_5_total_games": 1.53,
+                "over_36_5_total_games": 1.62,
+                "under_41_5_total_games": 1.62,
+                "over_37_5_total_games": 1.65,
+                "under_40_5_total_games": 1.73,
+                "over_38_5_total_games": 1.73,
+                "under_39_5_total_games": 1.8,
+                "over_39_5_total_games": 1.85,
+                "under_38_5_total_games": 1.95,
+                "over_40_5_total_games": 1.95,
+                "under_37_5_total_games": 2.05,
+                "under_36_5_total_games": 2.1,
+                "over_41_5_total_games": 2.1,
+                "under_35_5_total_games": 2.25
+            },
+            "skybet": {
+                "over_36_5_total_games": 1.6153846,
+                "under_41_5_total_games": 1.6666666,
+                "over_37_5_total_games": 1.6666666,
+                "under_40_5_total_games": 1.7272727,
+                "over_38_5_total_games": 1.7272727,
+                "under_39_5_total_games": 1.8333334,
+                "over_39_5_total_games": 1.8333334,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2,
+                "under_37_5_total_games": 2.1,
+                "under_36_5_total_games": 2.2,
+                "over_41_5_total_games": 2.1
+            },
+            "betway": {
+                "under_41_5_total_games": 1.65,
+                "over_37_5_total_games": 1.65,
+                "under_40_5_total_games": 1.73,
+                "over_38_5_total_games": 1.73,
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.85,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2,
+                "under_37_5_total_games": 2.1,
+                "over_41_5_total_games": 2.1
+            },
+            "williamhill": {
+                "over_37_5_total_games": 1.67,
+                "over_38_5_total_games": 1.73,
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.85,
+                "under_38_5_total_games": 2,
+                "under_37_5_total_games": 2.1
+            },
+            "vbet": {
+                "under_40_5_total_games": 1.77,
+                "over_38_5_total_games": 1.81,
+                "under_39_5_total_games": 1.88,
+                "over_39_5_total_games": 1.93,
+                "under_38_5_total_games": 2.01,
+                "over_40_5_total_games": 2.05
+            },
+            "betfred": {
+                "under_40_5_total_games": 1.73,
+                "over_38_5_total_games": 1.73,
+                "under_39_5_total_games": 1.83,
+                "over_39_5_total_games": 1.83,
+                "under_38_5_total_games": 2,
+                "over_40_5_total_games": 2
+            },
+            "boylesports": {
+                "over_38_5_total_games": 1.83,
+                "under_38_5_total_games": 1.83
+            },
+            "matchbook": {
+                "over_38_5_total_games": 1.79,
+                "under_39_5_total_games": 1.9,
+                "over_39_5_total_games": 1.94,
+                "under_38_5_total_games": 1.98
+            },
+            "coral": {
+                "over_38_5_total_games": 1.73,
+                "under_38_5_total_games": 2
+            },
+            "ladbrokes": {
+                "over_38_5_total_games": 1.73,
+                "under_38_5_total_games": 2
+            },
+            "starsports": {
+                "under_39_5_total_games": 1.91,
+                "over_39_5_total_games": 1.91
+            },
+            "888sport": {
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.909
+            },
+            "betgoodwin": {
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.85
+            },
+            "livescorebet": {
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.9
+            },
+            "quinnbet": {
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.85
+            },
+            "betvictor": {
+                "under_39_5_total_games": 1.85,
+                "over_39_5_total_games": 1.9
+            },
+            "bet365": {
+                "under_39_5_total_games": 1.833,
+                "over_39_5_total_games": 1.833
+            },
+            "sportingindex": {
+                "under_39_5_total_games": 1.83,
+                "over_39_5_total_games": 1.83
+            },
+            "spreadex": {
+                "under_39_5_total_games": 1.83,
+                "over_39_5_total_games": 1.83
+            }
+        }
+    },
+    {
+        "id": "3561763129",
+        "match_time": "08:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Holger Rune",
+        "away_name": "Arthur Cazaux",
+        "name": "Holger Rune v Arthur Cazaux",
+        "start_time": "2024-01-18 08:00:00",
+        "urlMap": "holger rune-v-arthur cazaux",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/holger-rune-v-arthur-cazaux/winner",
+        "is_live": false,
+        "timestamp": 1705564800.0,
+        "version": 1705497864,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "no_1s_tie_break": 1.2,
+                "yes_1s_tie_break": 4.33
+            },
+            "ladbrokes": {
+                "no_1s_tie_break": 1.2,
+                "yes_1s_tie_break": 4.33
+            }
+        }
+    },
+    {
+        "id": "3561732224",
+        "match_time": "09:30",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Emil Ruusuvuori",
+        "away_name": "Daniil Medvedev",
+        "name": "Emil Ruusuvuori v Daniil Medvedev",
+        "start_time": "2024-01-18 09:30:00",
+        "urlMap": "emil ruusuvuori-v-daniil medvedev",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/emil-ruusuvuori-v-daniil-medvedev/winner",
+        "is_live": false,
+        "timestamp": 1705570200.0,
+        "version": 1705497865,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "no_1s_tie_break": 1.17,
+                "yes_1s_tie_break": 4.8
+            },
+            "ladbrokes": {
+                "no_1s_tie_break": 1.17,
+                "yes_1s_tie_break": 4.8
+            }
+        }
+    },
+    {
+        "id": "3561777630",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Alycia Parks",
+        "away_name": "Coco Gauff",
+        "name": "Alycia Parks v Coco Gauff",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "alycia parks-v-coco gauff",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/alycia-parks-v-coco-gauff/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497898,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "away_win_1s": 1.15,
+                "home_win_1s": 6.1
+            },
+            "betuk": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 6.25
+            },
+            "betmgmuk": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 6.25
+            },
+            "unibet": {
+                "away_win_1s": 1.14,
+                "home_win_1s": 6.25
+            },
+            "bet365": {
+                "away_win_1s": 1.125,
+                "home_win_1s": 6
+            },
+            "coral": {
+                "away_win_1s": 1.12,
+                "home_win_1s": 6
+            },
+            "ladbrokes": {
+                "away_win_1s": 1.12,
+                "home_win_1s": 6
+            },
+            "10bet": {
+                "away_win_1s": 1.111,
+                "home_win_1s": 6.5
+            },
+            "betfred": {
+                "away_win_1s": 1.11,
+                "home_win_1s": 6.5
+            },
+            "betgoodwin": {
+                "away_win_1s": 1.11,
+                "home_win_1s": 6
+            },
+            "quinnbet": {
+                "away_win_1s": 1.11,
+                "home_win_1s": 6
+            },
+            "midnite": {
+                "away_win_1s": 1.1,
+                "home_win_1s": 5.5
+            },
+            "williamhill": {
+                "away_win_1s": 1.1,
+                "home_win_1s": 6.5
+            },
+            "vbet": {
+                "away_win_1s": 1.09,
+                "home_win_1s": 7.2
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.0833334,
+                "home_win_1s": 6.5
+            },
+            "paddypower": {
+                "away_win_1s": 1.0833334,
+                "home_win_1s": 6.5
+            },
+            "skybet": {
+                "away_win_1s": 1.0833334,
+                "home_win_1s": 7
+            },
+            "betway": {
+                "away_win_1s": 1.08,
+                "home_win_1s": 6.5
+            }
+        }
+    },
+    {
+        "id": "3561778933",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Amanda Anisimova",
+        "away_name": "Paula Badosa",
+        "name": "Amanda Anisimova v Paula Badosa",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "amanda anisimova-v-paula badosa",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/amanda-anisimova-v-paula-badosa/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497899,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "away_win_1s": 1.727,
+                "home_win_1s": 2.1
+            },
+            "betuk": {
+                "away_win_1s": 1.68,
+                "home_win_1s": 2.18
+            },
+            "betmgmuk": {
+                "away_win_1s": 1.68,
+                "home_win_1s": 2.18
+            },
+            "unibet": {
+                "away_win_1s": 1.68,
+                "home_win_1s": 2.18
+            },
+            "boylesports": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "coral": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.15
+            },
+            "betfred": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "betgoodwin": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "ladbrokes": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.15
+            },
+            "quinnbet": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "betvictor": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "vbet": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.17
+            },
+            "williamhill": {
+                "away_win_1s": 1.67,
+                "home_win_1s": 2.1
+            },
+            "skybet": {
+                "away_win_1s": 1.6666666,
+                "home_win_1s": 2.1
+            },
+            "10bet": {
+                "away_win_1s": 1.666,
+                "home_win_1s": 2.15
+            },
+            "starsports": {
+                "away_win_1s": 1.66,
+                "home_win_1s": 2.1
+            },
+            "midnite": {
+                "away_win_1s": 1.62,
+                "home_win_1s": 2.1
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "paddypower": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "betway": {
+                "away_win_1s": 1.6,
+                "home_win_1s": 2.2
+            },
+            "livescorebet": {
+                "away_win_1s": 1.57,
+                "home_win_1s": 2.25
+            }
+        }
+    },
+    {
+        "id": "3561782164",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Lesia Tsurenko",
+        "away_name": "Aryna Sabalenka",
+        "name": "Lesia Tsurenko v Aryna Sabalenka",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "lesia tsurenko-v-aryna sabalenka",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/lesia-tsurenko-v-aryna-sabalenka/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497899,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "no_1s_tie_break": 1.04,
+                "yes_1s_tie_break": 11
+            },
+            "ladbrokes": {
+                "no_1s_tie_break": 1.04,
+                "yes_1s_tie_break": 11
+            }
+        }
+    },
+    {
+        "id": "3561780155",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Magdalena Frech",
+        "away_name": "Anastasia Zakharova",
+        "name": "Magdalena Frech v Anastasia Zakharova",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "magdalena frech-v-anastasia zakharova",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/magdalena-frech-v-anastasia-zakharova/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497901,
+        "source": "oddschecker",
+        "odds": {
+            "betuk": {
+                "home_win_1s": 1.55,
+                "away_win_1s": 2.45
+            },
+            "betmgmuk": {
+                "home_win_1s": 1.55,
+                "away_win_1s": 2.45
+            },
+            "unibet": {
+                "home_win_1s": 1.55,
+                "away_win_1s": 2.45
+            },
+            "bet365": {
+                "home_win_1s": 1.533,
+                "away_win_1s": 2.5
+            },
+            "boylesports": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.38
+            },
+            "coral": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "betfairsportsbook": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "betfred": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "betgoodwin": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.4
+            },
+            "ladbrokes": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "midnite": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.3
+            },
+            "10bet": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "paddypower": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "quinnbet": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.4
+            },
+            "starsports": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "skybet": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "betvictor": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.4
+            },
+            "vbet": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.5
+            },
+            "betway": {
+                "home_win_1s": 1.5,
+                "away_win_1s": 2.4
+            },
+            "livescorebet": {
+                "home_win_1s": 1.44,
+                "away_win_1s": 2.55
+            },
+            "williamhill": {
+                "home_win_1s": 1.44,
+                "away_win_1s": 2.62
+            }
+        }
+    },
+    {
+        "id": "3561778480",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Maria Timofeeva",
+        "away_name": "Beatriz Haddad Maia",
+        "name": "Maria Timofeeva v Beatriz Haddad Maia",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "maria timofeeva-v-beatriz haddad maia",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/maria-timofeeva-v-beatriz-haddad-maia/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497902,
+        "source": "oddschecker",
+        "odds": {
+            "betfair": {
+                "away_under_1_5_handicap": 1.27,
+                "away_under_2_5_handicap": 1.33,
+                "away_under_3_5_handicap": 1.48,
+                "away_under_4_5_handicap": 1.76,
+                "away_under_5_5_handicap": 2.14,
+                "away_under_6_5_handicap": 3.01
+            },
+            "matchbook": {
+                "away_under_2_5_handicap": 1.33,
+                "home_over_6_5_handicap": 1.38,
+                "away_under_3_5_handicap": 1.47,
+                "home_over_5_5_handicap": 1.7,
+                "away_under_4_5_handicap": 1.76,
+                "home_over_4_5_handicap": 2.14,
+                "away_under_5_5_handicap": 2.22,
+                "home_over_3_5_handicap": 2.63,
+                "away_under_6_5_handicap": 3.01,
+                "home_over_2_5_handicap": 3.06
+            },
+            "betuk": {
+                "away_under_2_5_handicap": 1.32,
+                "home_over_6_5_handicap": 1.33,
+                "away_under_3_5_handicap": 1.45,
+                "home_over_5_5_handicap": 1.64,
+                "away_under_4_5_handicap": 1.73,
+                "home_over_4_5_handicap": 2.07,
+                "away_under_5_5_handicap": 2.23,
+                "home_over_3_5_handicap": 2.65,
+                "away_under_6_5_handicap": 3.15,
+                "home_over_2_5_handicap": 3.25
+            },
+            "betmgmuk": {
+                "away_under_2_5_handicap": 1.32,
+                "home_over_6_5_handicap": 1.33,
+                "away_under_3_5_handicap": 1.45,
+                "home_over_5_5_handicap": 1.64,
+                "away_under_4_5_handicap": 1.73,
+                "home_over_4_5_handicap": 2.07,
+                "away_under_5_5_handicap": 2.23,
+                "home_over_3_5_handicap": 2.65,
+                "away_under_6_5_handicap": 3.15,
+                "home_over_2_5_handicap": 3.25
+            },
+            "unibet": {
+                "away_under_2_5_handicap": 1.32,
+                "home_over_6_5_handicap": 1.33,
+                "away_under_3_5_handicap": 1.45,
+                "home_over_5_5_handicap": 1.64,
+                "away_under_4_5_handicap": 1.73,
+                "home_over_4_5_handicap": 2.07,
+                "away_under_5_5_handicap": 2.23,
+                "home_over_3_5_handicap": 2.65,
+                "away_under_6_5_handicap": 3.15,
+                "home_over_2_5_handicap": 3.25
+            },
+            "midnite": {
+                "away_under_2_5_handicap": 1.3,
+                "home_over_6_5_handicap": 1.33,
+                "away_under_3_5_handicap": 1.44,
+                "home_over_5_5_handicap": 1.62,
+                "away_under_4_5_handicap": 1.67,
+                "home_over_4_5_handicap": 2,
+                "away_under_5_5_handicap": 2.1,
+                "home_over_3_5_handicap": 2.45,
+                "away_under_6_5_handicap": 2.9,
+                "home_over_2_5_handicap": 3.05
+            },
+            "10bet": {
+                "away_under_2_5_handicap": 1.3,
+                "home_over_6_5_handicap": 1.35,
+                "away_under_3_5_handicap": 1.42,
+                "home_over_5_5_handicap": 1.65,
+                "away_under_4_5_handicap": 1.727,
+                "home_over_4_5_handicap": 2,
+                "away_under_5_5_handicap": 2.1,
+                "home_over_3_5_handicap": 2.625,
+                "away_under_6_5_handicap": 2.95,
+                "home_over_2_5_handicap": 3.2
+            },
+            "betway": {
+                "away_under_2_5_handicap": 1.3,
+                "home_over_6_5_handicap": 1.4,
+                "away_under_3_5_handicap": 1.44,
+                "home_over_5_5_handicap": 1.65,
+                "away_under_4_5_handicap": 1.7,
+                "home_over_4_5_handicap": 2.05,
+                "away_under_5_5_handicap": 2.1,
+                "home_over_3_5_handicap": 2.6,
+                "away_under_6_5_handicap": 2.75,
+                "home_over_2_5_handicap": 3.2
+            },
+            "vbet": {
+                "away_under_3_5_handicap": 1.45,
+                "home_over_5_5_handicap": 1.7,
+                "away_under_4_5_handicap": 1.73,
+                "home_over_4_5_handicap": 2.09,
+                "away_under_5_5_handicap": 2.13,
+                "home_over_3_5_handicap": 2.63
+            },
+            "betfred": {
+                "away_under_3_5_handicap": 1.44,
+                "home_over_5_5_handicap": 1.67,
+                "away_under_4_5_handicap": 1.73,
+                "home_over_4_5_handicap": 2,
+                "away_under_5_5_handicap": 2.1,
+                "home_over_3_5_handicap": 2.63
+            },
+            "williamhill": {
+                "home_over_5_5_handicap": 1.73,
+                "away_under_5_5_handicap": 2
+            },
+            "bet365": {
+                "away_under_4_5_handicap": 1.8,
+                "home_over_4_5_handicap": 1.909
+            },
+            "betgoodwin": {
+                "away_under_4_5_handicap": 1.75,
+                "home_over_4_5_handicap": 2
+            },
+            "quinnbet": {
+                "away_under_4_5_handicap": 1.75,
+                "home_over_4_5_handicap": 2
+            },
+            "betvictor": {
+                "away_under_4_5_handicap": 1.75,
+                "home_over_4_5_handicap": 2
+            },
+            "coral": {
+                "away_under_4_5_handicap": 1.7,
+                "home_over_4_5_handicap": 2.05
+            },
+            "ladbrokes": {
+                "away_under_4_5_handicap": 1.7,
+                "home_over_4_5_handicap": 2.05
+            },
+            "livescorebet": {
+                "away_under_4_5_handicap": 1.7,
+                "home_over_4_5_handicap": 2.1
+            },
+            "sportingindex": {
+                "away_under_4_5_handicap": 1.62,
+                "home_over_4_5_handicap": 2.2
+            },
+            "spreadex": {
+                "away_under_4_5_handicap": 1.62,
+                "home_over_4_5_handicap": 2.2
+            }
+        }
+    },
+    {
+        "id": "3561777631",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Mirra Andreeva",
+        "away_name": "Diane Parry",
+        "name": "Mirra Andreeva v Diane Parry",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "mirra andreeva-v-diane parry",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/mirra-andreeva-v-diane-parry/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497903,
+        "source": "oddschecker",
+        "odds": {
+            "matchbook": {
+                "away_over_3_5_handicap": 4.14,
+                "home_under_4_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.37,
+                "home_under_5_5_handicap": 1.62,
+                "away_over_6_5_handicap": 1.77,
+                "home_under_6_5_handicap": 2.12,
+                "away_over_5_5_handicap": 2.37,
+                "home_under_7_5_handicap": 3.11,
+                "away_over_4_5_handicap": 3.06
+            },
+            "10bet": {
+                "away_over_8_5_handicap": 1.181,
+                "home_under_4_5_handicap": 1.35,
+                "away_over_7_5_handicap": 1.35,
+                "home_under_5_5_handicap": 1.6,
+                "away_over_6_5_handicap": 1.727,
+                "home_under_6_5_handicap": 2,
+                "away_over_5_5_handicap": 2.2,
+                "home_under_7_5_handicap": 2.95,
+                "away_over_4_5_handicap": 2.95,
+                "home_under_8_5_handicap": 4.333
+            },
+            "betway": {
+                "away_over_8_5_handicap": 1.18,
+                "home_under_4_5_handicap": 1.36,
+                "away_over_7_5_handicap": 1.36,
+                "home_under_5_5_handicap": 1.6,
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2,
+                "away_over_5_5_handicap": 2.2,
+                "home_under_7_5_handicap": 2.9,
+                "away_over_4_5_handicap": 2.9,
+                "home_under_8_5_handicap": 4.25
+            },
+            "midnite": {
+                "away_over_8_5_handicap": 1.17,
+                "home_under_4_5_handicap": 1.33,
+                "away_over_7_5_handicap": 1.33,
+                "home_under_5_5_handicap": 1.57,
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 1.95,
+                "away_over_5_5_handicap": 2.2,
+                "home_under_7_5_handicap": 2.9,
+                "away_over_4_5_handicap": 2.9,
+                "home_under_8_5_handicap": 4.3
+            },
+            "betuk": {
+                "home_under_4_5_handicap": 1.32,
+                "away_over_7_5_handicap": 1.36,
+                "home_under_5_5_handicap": 1.57,
+                "away_over_6_5_handicap": 1.74,
+                "home_under_6_5_handicap": 2.06,
+                "away_over_5_5_handicap": 2.35,
+                "home_under_7_5_handicap": 3,
+                "away_over_4_5_handicap": 3.25
+            },
+            "betmgmuk": {
+                "home_under_4_5_handicap": 1.32,
+                "away_over_7_5_handicap": 1.36,
+                "home_under_5_5_handicap": 1.57,
+                "away_over_6_5_handicap": 1.74,
+                "home_under_6_5_handicap": 2.06,
+                "away_over_5_5_handicap": 2.35,
+                "home_under_7_5_handicap": 3,
+                "away_over_4_5_handicap": 3.25
+            },
+            "unibet": {
+                "home_under_4_5_handicap": 1.32,
+                "away_over_7_5_handicap": 1.36,
+                "home_under_5_5_handicap": 1.57,
+                "away_over_6_5_handicap": 1.74,
+                "home_under_6_5_handicap": 2.06,
+                "away_over_5_5_handicap": 2.35,
+                "home_under_7_5_handicap": 3,
+                "away_over_4_5_handicap": 3.25
+            },
+            "betfred": {
+                "away_over_7_5_handicap": 1.36,
+                "home_over_5_5_handicap": 1.62,
+                "away_over_6_5_handicap": 1.73,
+                "home_over_6_5_handicap": 2,
+                "away_over_5_5_handicap": 2.2,
+                "home_over_7_5_handicap": 3
+            },
+            "bet365": {
+                "home_under_5_5_handicap": 1.727,
+                "away_over_5_5_handicap": 2
+            },
+            "coral": {
+                "home_under_5_5_handicap": 1.61,
+                "away_over_5_5_handicap": 2.2
+            },
+            "ladbrokes": {
+                "home_under_5_5_handicap": 1.61,
+                "away_over_5_5_handicap": 2.2
+            },
+            "vbet": {
+                "home_under_5_5_handicap": 1.58,
+                "away_over_6_5_handicap": 1.83,
+                "home_under_6_5_handicap": 1.98,
+                "away_over_5_5_handicap": 2.33
+            },
+            "livescorebet": {
+                "away_over_6_5_handicap": 1.75,
+                "home_under_6_5_handicap": 2.05
+            },
+            "betgoodwin": {
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2
+            },
+            "quinnbet": {
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2
+            },
+            "betvictor": {
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2.05
+            },
+            "williamhill": {
+                "away_over_6_5_handicap": 1.73,
+                "home_under_6_5_handicap": 2
+            },
+            "sportingindex": {
+                "away_over_6_5_handicap": 1.67,
+                "home_under_6_5_handicap": 2.1
+            },
+            "spreadex": {
+                "away_over_6_5_handicap": 1.67,
+                "home_under_6_5_handicap": 2.1
+            }
+        }
+    },
+    {
+        "id": "3561777632",
+        "match_time": "02:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Storm Hunter",
+        "away_name": "Barbora Krejcikova",
+        "name": "Storm Hunter v Barbora Krejcikova",
+        "start_time": "2024-01-19 02:00:00",
+        "urlMap": "storm hunter-v-barbora krejcikova",
+        "league_name": "Womens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens/storm-hunter-v-barbora-krejcikova/winner",
+        "is_live": false,
+        "timestamp": 1705629600.0,
+        "version": 1705497904,
+        "source": "oddschecker",
+        "odds": {
+            "coral": {
+                "away_over_1_5_sets_handicap": 1.1,
+                "away_under_1_5_sets_handicap": 1.7,
+                "home_over_1_5_sets_handicap": 2.05,
+                "home_under_1_5_sets_handicap": 6.5
+            },
+            "betuk": {
+                "away_over_1_5_sets_handicap": 1.1,
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 7
+            },
+            "betmgmuk": {
+                "away_over_1_5_sets_handicap": 1.1,
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 7
+            },
+            "ladbrokes": {
+                "away_over_1_5_sets_handicap": 1.1,
+                "away_under_1_5_sets_handicap": 1.7,
+                "home_over_1_5_sets_handicap": 2.05,
+                "home_under_1_5_sets_handicap": 6.5
+            },
+            "unibet": {
+                "away_over_1_5_sets_handicap": 1.1,
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 7
+            },
+            "vbet": {
+                "away_over_1_5_sets_handicap": 1.09,
+                "away_under_1_5_sets_handicap": 1.72,
+                "home_over_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 7.2
+            },
+            "betfred": {
+                "away_over_1_5_sets_handicap": 1.08,
+                "away_under_1_5_sets_handicap": 1.67,
+                "home_under_1_5_sets_handicap": 2.1
+            },
+            "10bet": {
+                "away_over_1_5_sets_handicap": 1.071,
+                "away_under_1_5_sets_handicap": 1.7,
+                "home_over_1_5_sets_handicap": 2.1
+            },
+            "midnite": {
+                "away_over_1_5_sets_handicap": 1.06,
+                "away_under_1_5_sets_handicap": 1.65,
+                "home_over_1_5_sets_handicap": 2.05,
+                "home_under_1_5_sets_handicap": 7
+            },
+            "betway": {
+                "away_over_1_5_sets_handicap": 1.05,
+                "away_under_1_5_sets_handicap": 1.65,
+                "home_over_1_5_sets_handicap": 2.1,
+                "home_under_1_5_sets_handicap": 7
+            },
+            "livescorebet": {
+                "away_over_1_5_sets_handicap": 1.045,
+                "away_under_1_5_sets_handicap": 1.5,
+                "home_over_1_5_sets_handicap": 2.2,
+                "home_under_1_5_sets_handicap": 7
+            },
+            "betgoodwin": {
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.05
+            },
+            "quinnbet": {
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.05
+            }
+        }
+    },
+    {
+        "id": "3561755896",
+        "match_time": "01:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Bolelli/Vavassori",
+        "away_name": "Mahut/Roger-Vasselin",
+        "name": "Bolelli/Vavassori v Mahut/Roger-Vasselin",
+        "start_time": "2024-01-19 01:00:00",
+        "urlMap": "bolelli/vavassori-v-mahut/roger-vasselin",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/bolelli-vavassori-v-mahut-roger-vasselin/winner",
+        "is_live": false,
+        "timestamp": 1705626000.0,
+        "version": 1705497904,
+        "source": "oddschecker",
+        "odds": {
+            "10bet": {
+                "away_win_1s": 1.65,
+                "home_win_1s": 2.2
+            },
+            "betvictor": {
+                "away_win_1s": 1.62,
+                "home_win_1s": 2.2
+            },
+            "betfairsportsbook": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "paddypower": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "skybet": {
+                "away_win_1s": 1.6153846,
+                "home_win_1s": 2.2
+            },
+            "bet365": {
+                "away_win_1s": 1.615,
+                "home_win_1s": 2.2
+            }
+        }
+    },
+    {
+        "id": "3561751230",
+        "match_time": "01:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Gonzalez/Molteni",
+        "away_name": "Nuno Borges/Vukic",
+        "name": "Gonzalez/Molteni v Nuno Borges/Vukic",
+        "start_time": "2024-01-19 01:00:00",
+        "urlMap": "gonzalez/molteni-v-nuno borges/vukic",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/gonzalez-molteni-v-borges-vukic/winner",
+        "is_live": false,
+        "timestamp": 1705626000.0,
+        "version": 1705497905,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "under_22_5_total_games": 1.833,
+                "over_22_5_total_games": 1.833
+            }
+        }
+    },
+    {
+        "id": "3561785402",
+        "match_time": "01:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Ram/Salisbury",
+        "away_name": "Daniel Altamier/Reyes-Varela",
+        "name": "Ram/Salisbury v Daniel Altamier/Reyes-Varela",
+        "start_time": "2024-01-20 01:00:00",
+        "urlMap": "ram/salisbury-v-daniel altamier/reyes-varela",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/altmaier-reyes-varela-v-ram-salisbury/winner",
+        "is_live": false,
+        "timestamp": 1705712400.0,
+        "version": 1705497908,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_win": 1.125,
+                "away_win": 6
+            }
+        }
+    },
+    {
+        "id": "3561785776",
+        "match_time": "01:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Lammons/Withrow",
+        "away_name": "Halys/Adrian Mannarino",
+        "name": "Lammons/Withrow v Halys/Adrian Mannarino",
+        "start_time": "2024-01-20 01:00:00",
+        "urlMap": "lammons/withrow-v-halys/adrian mannarino",
+        "league_name": "Australian Open Doubles Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/doubles/halys-mannarino-v-lammons-withrow/winner",
+        "is_live": false,
+        "timestamp": 1705712400.0,
+        "version": 1705497909,
+        "source": "oddschecker",
+        "odds": {
+            "bet365": {
+                "home_under_2_5_handicap": 1.727,
+                "Halys/Mannarino": 2
+            }
+        }
+    },
+    {
+        "id": "3561785326",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Adrian Mannarino",
+        "away_name": "Ben Shelton",
+        "name": "Adrian Mannarino v Ben Shelton",
+        "start_time": "2024-01-20 00:00:00",
+        "urlMap": "adrian mannarino-v-ben shelton",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/adrian-mannarino-v-ben-shelton/winner",
+        "is_live": false,
+        "timestamp": 1705708800.0,
+        "version": 1705497913,
+        "source": "oddschecker",
+        "odds": {
+            "betuk": {
+                "home_over_2_5_sets_handicap": 1.37,
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.08,
+                "away_under_2_5_sets_handicap": 3.1
+            },
+            "betmgmuk": {
+                "home_over_2_5_sets_handicap": 1.37,
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.08,
+                "away_under_2_5_sets_handicap": 3.1
+            },
+            "unibet": {
+                "home_over_2_5_sets_handicap": 1.37,
+                "away_under_1_5_sets_handicap": 1.73,
+                "home_over_1_5_sets_handicap": 2.08,
+                "away_under_2_5_sets_handicap": 3.1
+            },
+            "betway": {
+                "home_over_2_5_sets_handicap": 1.36,
+                "away_under_1_5_sets_handicap": 1.65,
+                "home_over_1_5_sets_handicap": 2.1,
+                "away_under_2_5_sets_handicap": 2.9
+            },
+            "betgoodwin": {
+                "away_under_1_5_sets_handicap": 1.8,
+                "home_over_1_5_sets_handicap": 1.95
+            },
+            "quinnbet": {
+                "away_under_1_5_sets_handicap": 1.8,
+                "home_over_1_5_sets_handicap": 1.95
+            }
+        }
+    },
+    {
+        "id": "3561780600",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Alex De Minaur",
+        "away_name": "Flavio Cobolli",
+        "name": "Alex De Minaur v Flavio Cobolli",
+        "start_time": "2024-01-20 00:00:00",
+        "urlMap": "alex de minaur-v-flavio cobolli",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/alex-de-minaur-v-flavio-cobolli/winner",
+        "is_live": false,
+        "timestamp": 1705708800.0,
+        "version": 1705497914,
+        "source": "oddschecker",
+        "odds": {
+            "betuk": {
+                "home_win": 1.08,
+                "away_win": 8.5
+            },
+            "betgoodwin": {
+                "home_win": 1.08,
+                "away_win": 7
+            },
+            "betmgmuk": {
+                "home_win": 1.08,
+                "away_win": 8.5
+            },
+            "quinnbet": {
+                "home_win": 1.08,
+                "away_win": 7
+            },
+            "unibet": {
+                "home_win": 1.08,
+                "away_win": 8.5
+            },
+            "betway": {
+                "home_win": 1.07,
+                "away_win": 8
+            },
+            "boylesports": {
+                "home_win": 1.06
+            }
+        }
+    },
+    {
+        "id": "3561780604",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Jannik Sinner",
+        "away_name": "Sebastian Baez",
+        "name": "Jannik Sinner v Sebastian Baez",
+        "start_time": "2024-01-20 00:00:00",
+        "urlMap": "jannik sinner-v-sebastian baez",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/jannik-sinner-v-sebastian-baez/winner",
+        "is_live": false,
+        "timestamp": 1705708800.0,
+        "version": 1705497915,
+        "source": "oddschecker",
+        "odds": {
+            "betway": {
+                "even_1s_total_games": 1.8,
+                "odd_1s_total_games": 1.9
+            }
+        }
+    },
+    {
+        "id": "3561785325",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Sebastian Korda",
+        "away_name": "Andrey Rublev",
+        "name": "Sebastian Korda v Andrey Rublev",
+        "start_time": "2024-01-20 00:00:00",
+        "urlMap": "sebastian korda-v-andrey rublev",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/sebastian-korda-v-andrey-rublev/winner",
+        "is_live": false,
+        "timestamp": 1705708800.0,
+        "version": 1705497916,
+        "source": "oddschecker",
+        "odds": {
+            "betway": {
+                "odd_total_games": 1.85,
+                "even_total_games": 1.85
+            }
+        }
+    },
+    {
+        "id": "3561780601",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Taylor Fritz",
+        "away_name": "Fabian Marozsan",
+        "name": "Taylor Fritz v Fabian Marozsan",
+        "start_time": "2024-01-20 00:00:00",
+        "urlMap": "taylor fritz-v-fabian marozsan",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/taylor-fritz-v-fabian-marozsan/winner",
+        "is_live": false,
+        "timestamp": 1705708800.0,
+        "version": 1705497917,
+        "source": "oddschecker",
+        "odds": {
+            "betuk": {
+                "under_4_5_total_sets": 1.29,
+                "over_3_5_total_sets": 1.58,
+                "under_3_5_total_sets": 2.35,
+                "over_4_5_total_sets": 3.55
+            },
+            "betmgmuk": {
+                "under_4_5_total_sets": 1.29,
+                "over_3_5_total_sets": 1.58,
+                "under_3_5_total_sets": 2.35,
+                "over_4_5_total_sets": 3.55
+            },
+            "unibet": {
+                "under_4_5_total_sets": 1.29,
+                "over_3_5_total_sets": 1.58,
+                "under_3_5_total_sets": 2.35,
+                "over_4_5_total_sets": 3.55
+            },
+            "betway": {
+                "under_4_5_total_sets": 1.22,
+                "over_3_5_total_sets": 1.7,
+                "under_3_5_total_sets": 1.95,
+                "over_4_5_total_sets": 3.8
+            }
+        }
+    },
+    {
+        "id": "3561785324",
+        "match_time": "00:00",
+        "sport_id": 12,
+        "sport_name": "Tennis",
+        "home_name": "Tomas Machac",
+        "away_name": "Karen Khachanov",
+        "name": "Tomas Machac v Karen Khachanov",
+        "start_time": "2024-01-20 00:00:00",
+        "urlMap": "tomas machac-v-karen khachanov",
+        "league_name": "Mens Australian Open Matches",
+        "subeventType": "MATCH",
+        "category_name": "Tennis",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens/tomas-machac-v-karen-khachanov/winner",
+        "is_live": false,
+        "timestamp": 1705708800.0,
+        "version": 1705497918,
+        "source": "oddschecker",
+        "odds": {
+            "betgoodwin": {
+                "yes_home_win_a_set": 1.33,
+                "no_home_win_a_set": 3.2
+            },
+            "quinnbet": {
+                "yes_home_win_a_set": 1.3,
+                "no_home_win_a_set": 3.2
+            },
+            "betway": {
+                "yes_home_win_a_set": 1.3,
+                "no_home_win_a_set": 3.2
+            },
+            "betuk": {
+                "yes_home_win_a_set": 1.28,
+                "no_home_win_a_set": 3.65
+            },
+            "betmgmuk": {
+                "yes_home_win_a_set": 1.28,
+                "no_home_win_a_set": 3.65
+            },
+            "unibet": {
+                "yes_home_win_a_set": 1.28,
+                "no_home_win_a_set": 3.65
+            }
+        }
+    }
+]
