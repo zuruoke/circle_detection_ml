@@ -1,23 +1,19 @@
 {% extends "base.html" %} {% block content %}
-<div class="container mt-5">
-  <h2>Add a New Song</h2>
-  <form method="POST" action="">
-    {{ form.hidden_tag() }}
-    <div class="form-group">
-      {{ form.title.label(class="form-control-label") }} {{
-      form.title(class="form-control") }} {% if form.title.errors %} {% for
-      error in form.title.errors %}
-      <div class="alert alert-danger" role="alert">{{ error }}</div>
-      {% endfor %} {% endif %}
-    </div>
-    <div class="form-group">
-      {{ form.artist.label(class="form-control-label") }} {{
-      form.artist(class="form-control") }} {% if form.artist.errors %} {% for
-      error in form.artist.errors %}
-      <div class="alert alert-danger" role="alert">{{ error }}</div>
-      {% endfor %} {% endif %}
-    </div>
-    <button type="submit" class="btn btn-primary">Add Song</button>
-  </form>
-</div>
+<h1>{{ playlist.name }}</h1>
+<p>{{ playlist.description }}</p>
+
+<h2>Songs</h2>
+<ul>
+  {% for song in playlist.songs %}
+  <li>{{ song.title }} by {{ song.artist }}</li>
+  {% else %}
+  <li>No songs in this playlist yet.</li>
+  {% endfor %}
+</ul>
+
+<a href="/playlists/{{ playlist.id }}/add-song" class="btn btn-primary"
+  >Add Song to Playlist</a
+>
+<br />
+<a href="/playlists" class="btn btn-secondary">Back to All Playlists</a>
 {% endblock %}
