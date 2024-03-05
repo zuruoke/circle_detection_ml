@@ -1,38 +1,28 @@
-"""Models for Playlist app."""
+"""Forms for playlist app."""
 
-from flask_sqlalchemy import SQLAlchemy
-
-db = SQLAlchemy()
-
-class Playlist(db.Model):
-    """Playlist."""
-    __tablename__ = 'playlists' 
-    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    name = db.Column(db.Text, nullable=False, unique=True)
-    description = db.Column(db.Text)
-    songs = db.relationship('Song', secondary='playlists_songs', backref='playlists')
+from wtforms import SelectField, TextAreaField, StringField
+from flask_wtf import FlaskForm
+from wtforms.validators import InputRequired, Length
 
 
-class Song(db.Model):
-    """Song."""
-    __tablename__ = 'songs'
-    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    title = db.Column(db.Text, nullable=False)
-    artist = db.Column(db.Text, nullable=False)
-    # Add backref to playlists here if necessary
+class PlaylistForm(FlaskForm):
+    """Form for adding playlists."""
+
+    # Add the necessary code to use this form
+    name = StringField('Playlist Name', validators=[InputRequired(), Length(min=2, max=30)])
+    description = TextAreaField('Playlist Description', validators=[Length(max=150)])
 
 
-class PlaylistSong(db.Model):
-    """Mapping of a playlist to a song."""
-    __tablename__ = 'playlists_songs' 
-    playlist_id = db.Column(db.Integer, db.ForeignKey('playlists.id'), primary_key=True)
-    song_id = db.Column(db.Integer, db.ForeignKey('songs.id'), primary_key=True)
+class SongForm(FlaskForm):
+    """Form for adding songs."""
+
+    # Add the necessary code to use this form
+    title = StringField('Song Title', validators=[InputRequired(), Length(min=2, max=100)])
+    artist = StringField('Artist', validators=[InputRequired(), Length(min=2, max=100)])
 
 
+# DO NOT MODIFY THIS FORM - EVERYTHING YOU NEED IS HERE
+class NewSongForPlaylistForm(FlaskForm):
+    """Form for adding a song to playlist."""
 
-# DO NOT MODIFY THIS FUNCTION
-def connect_db(app):
-    """Connect to database."""
-
-    db.app = app
-    db.init_app(app)
+    song = SelectField('Song To Add', coerce=int)
