@@ -1,19 +1,16 @@
 {% extends "base.html" %} {% block content %}
-<h1>{{ playlist.name }}</h1>
-<p>{{ playlist.description }}</p>
+<h1>{{ song.title }}</h1>
+<p>Artist: {{ song.artist }}</p>
 
-<h2>Songs</h2>
+<!-- Optional: if you want to show playlists containing this song -->
+<h2>Playlists</h2>
 <ul>
-  {% for song in playlist.songs %}
-  <li>{{ song.title }} by {{ song.artist }}</li>
+  {% for playlist in song.playlists %}
+  <li>{{ playlist.name }}</li>
   {% else %}
-  <li>No songs in this playlist yet.</li>
+  <li>This song is not in any playlists yet.</li>
   {% endfor %}
 </ul>
 
-<a href="/playlists/{{ playlist.id }}/add-song" class="btn btn-primary"
-  >Add Song to Playlist</a
->
-<br />
-<a href="/playlists" class="btn btn-secondary">Back to All Playlists</a>
+<a href="/songs" class="btn btn-secondary">Back to All Songs</a>
 {% endblock %}
