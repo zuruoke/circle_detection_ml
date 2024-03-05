@@ -1,16 +1,12 @@
-{% extends "base.html" %} {% block content %}
-<h1>{{ song.title }}</h1>
-<p>Artist: {{ song.artist }}</p>
+import subprocess
+import sys
 
-<!-- Optional: if you want to show playlists containing this song -->
-<h2>Playlists</h2>
-<ul>
-  {% for playlist in song.playlists %}
-  <li>{{ playlist.name }}</li>
-  {% else %}
-  <li>This song is not in any playlists yet.</li>
-  {% endfor %}
-</ul>
+def upgrade_packages():
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "Flask-WTF", "WTForms"])
+        print("Packages upgraded successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"Failed to upgrade packages: {e}")
 
-<a href="/songs" class="btn btn-secondary">Back to All Songs</a>
-{% endblock %}
+# Call the function at the very start of your app.py
+upgrade_packages()
